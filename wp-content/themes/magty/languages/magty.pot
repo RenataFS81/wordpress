@@ -1,0 +1,5933 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Magty\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-26 07:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: magty"
+
+#: inc/dashboard/class-dashboard.php:455
+msgid " Already rated"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:456
+msgid " Remind Later"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:454
+msgid " Sure Thing"
+msgstr ""
+
+#. %1$s is link start tag, %2$s is link end tag.
+#: inc/dashboard/class-dashboard.php:446
+#, php-format
+msgid ""
+" We hope you love it, and we would really appreciate it if you would "
+"%1$srate us%2$s and spread your positive words."
+msgstr ""
+
+#. 1 = comment date, 2 = comment time
+#: classes/class-magty-walker-comment.php:59
+#, php-format
+msgid "%1$s - %2$s"
+msgstr ""
+
+#. %s: Button Label
+#: inc/dashboard/sections/recommended-plugins.php:47
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. %s = comment author link
+#: classes/class-magty-walker-comment.php:46
+#, php-format
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr ""
+
+#: inc/woocommerce.php:238
+#, php-format
+msgid "%s has been added to your cart."
+msgstr ""
+
+#. %s: Theme Name.
+#: inc/dashboard/class-dashboard.php:379
+#, php-format
+msgid ""
+"%s is now installed and ready for use. Next, you can speed up your "
+"development process by using amazing starter templates or visit the theme "
+"dashboard for more information and settings."
+msgstr ""
+
+#. %s: Read Time.
+#: inc/template-tags.php:268 inc/template-tags.php:274
+#, php-format
+msgid "%s min read"
+msgstr ""
+
+#. %s: Post Type.
+#: inc/post-meta/init.php:24
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: inc/helpers.php:1781
+msgid "&mdash; No Limit &mdash;"
+msgstr ""
+
+#: inc/widgets/class-post-ids-special-grid.php:35
+msgid "&mdash; Or &mdash;"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:35 inc/widgets/class-grid-posts.php:201
+#: inc/widgets/class-grid-posts.php:227 inc/widgets/class-list-posts.php:35
+#: inc/widgets/class-popular-posts.php:34
+#: inc/widgets/class-post-ids-special-grid.php:46
+#: inc/widgets/class-posts-carousel.php:36
+#: inc/widgets/class-posts-slider.php:36
+#: inc/widgets/class-single-column-posts.php:35
+#: inc/widgets/class-tab-posts.php:55 inc/widgets/class-tab-posts.php:117
+#: inc/widgets/class-tab-posts.php:179
+#: inc/customizer/controls/dropdown-taxonomies.php:96
+#: inc/customizer/theme-options/front-page/trending-posts.php:624
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: template-parts/footer/footer-info.php:44
+#, php-format
+msgid "&nbsp;- Powered by %1$s."
+msgstr ""
+
+#: inc/customizer/theme-options/header/site-identity.php:101
+msgid "( Default: 16px ) Changes're only applicable to desktop version."
+msgstr ""
+
+#: inc/customizer/theme-options/header/site-identity.php:79
+msgid "( Default: 42px ) Changes're only applicable to desktop version."
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:390
+msgid "(H1-H6) font sizes"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:269
+#: inc/customizer/theme-options/upsellbkp.php:290
+#: inc/customizer/theme-options/upsellbkp.php:316
+#: inc/customizer/theme-options/upsellbkp.php:371
+#: inc/customizer/theme-options/upsellbkp.php:392
+#: inc/customizer/theme-options/upsellbkp.php:412
+#: inc/customizer/theme-options/upsellbkp.php:438
+#: inc/customizer/theme-options/upsellbkp.php:460
+#: inc/customizer/theme-options/upsellbkp.php:526
+msgid "... and many other premium features"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:39
+#: inc/dashboard/sections/free-vs-pro.php:219
+msgid "1"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:168
+msgid "1 Column List"
+msgstr ""
+
+#: comments.php:42 inc/template-tags.php:309
+msgid "1 comment"
+msgstr ""
+
+#: inc/helpers.php:1782
+msgid "1 Line"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:425
+msgid "10+"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:106
+msgid "12 Hour Time Format"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:430
+#: inc/dashboard/sections/free-vs-pro.php:431
+msgid "12+"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:306
+msgid "13+ footer layouts"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:420
+msgid "16+"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:180
+#: inc/dashboard/sections/free-vs-pro.php:220
+#: inc/dashboard/sections/free-vs-pro.php:541
+#: inc/customizer/theme-options/front-page/trending-posts.php:128
+msgid "2"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:169
+msgid "2 Columns List"
+msgstr ""
+
+#: inc/helpers.php:1783
+msgid "2 Lines"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:366
+msgid "2+ slider thumbnail style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:426
+msgid "20+"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:266
+msgid "20+ Preloader options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:70
+msgid "20+ Preloaders"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:518
+msgid "20+ title styles"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:455
+msgid "20+ widgetareas title styles"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:421
+msgid "22+"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:264
+#: inc/dashboard/sections/free-vs-pro.php:455
+#: inc/dashboard/sections/free-vs-pro.php:460
+#: inc/customizer/theme-options/front-page/trending-posts.php:129
+msgid "3"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:170
+msgid "3 Columns List"
+msgstr ""
+
+#: inc/helpers.php:1784
+msgid "3 Lines"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:40
+#: inc/dashboard/sections/free-vs-pro.php:170
+#: inc/dashboard/sections/free-vs-pro.php:190
+#: inc/dashboard/sections/free-vs-pro.php:320
+#: inc/customizer/theme-options/front-page/trending-posts.php:130
+msgid "4"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:171
+msgid "4 Columns List"
+msgstr ""
+
+#: inc/helpers.php:1785
+msgid "4 Lines"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:365
+msgid "4+ home carousel style"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:364
+msgid "4+ home slider style"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:521
+msgid "40+ bottom section divider shapes "
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:307
+msgid "40+ footer shape dividers"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:310
+msgid "40+ sub footer shape dividers"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:520
+msgid "40+ top section divider shapes"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:454
+msgid "40+ widgetareas shape dividers"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:271
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:34
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:268
+#: inc/dashboard/sections/free-vs-pro.php:489
+msgid "404 page options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:265
+#: inc/dashboard/sections/free-vs-pro.php:461
+#: inc/customizer/theme-options/front-page/trending-posts.php:131
+msgid "5"
+msgstr ""
+
+#: inc/helpers.php:1786
+msgid "5 Lines"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:160
+msgid "5+"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:286
+msgid "5+ header styles"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:429
+msgid "5+ post navigation styles"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:367
+msgid "5+ ticker styles"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:456
+msgid "6"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:369
+msgid "6+ extra widgets"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:428
+msgid "6+ single styles"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:366
+msgid "8+"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:437
+msgid "8+ custom social share positions"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:321
+msgid "9"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:408
+msgid "9+ archive styles"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:312
+msgid "9+ scroll to top icons"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:153
+#: inc/customizer/theme-options/header/top-bar.php:155
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Date and Time Formatting Documentation</a>."
+msgstr ""
+
+#: inc/helpers.php:345 template-parts/single/author-info.php:20
+msgid "About The Author"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:103
+#: inc/customizer/theme-options/widgetareas/above-footer.php:6
+msgid "Above Footer"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:109
+#: inc/customizer/theme-options/widgetareas/above-footer-nc.php:6
+msgid "Above Footer - No Container"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/above-home.php:6
+msgid "Above Home"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/before-home-columns.php:6
+msgid "Above Home Columns"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-before-posts.php:6
+msgid "Above Home Posts"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:69
+msgid "Above Homepage"
+msgstr ""
+
+#: inc/widgets/class-heading.php:62 inc/customizer/theme-options/colors.php:41
+msgid "Accent Color"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:721
+msgid "Activate"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:720
+msgid "Activated"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:719
+msgid "Activating"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:68
+msgid "Ad Banner Image"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:89
+msgid "Ad Banner Link"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/homepage-settings.php:17
+msgid ""
+"Add a title that will show above homepage posts to match theme title styles."
+msgstr ""
+
+#: inc/widgets/class-address-info.php:29
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:157
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:14
+msgid "Adds Call to action section"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:221
+msgid "Adds various highly effective sign-up methods to your site."
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:38
+#: inc/customizer/theme-options/upsellbkp.php:334
+msgid "Adress Info ( 2+ Styles )"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:20 inc/customizer/theme-options/upsell.php:37
+#: inc/customizer/theme-options/upsellbkp.php:333
+msgid "Ads Code"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:113
+msgid "Advance Typography"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:14
+msgid "Advertisements or codes widget."
+msgstr ""
+
+#: inc/customizer/theme-options/general/elements-design.php:22
+msgid ""
+"Affects elements like input fiels, buttons, label backgrounds, etc. This "
+"affects multiple elements on the website, make sure to check your website "
+"after changing this."
+msgstr ""
+
+#: inc/customizer/theme-options/general/elements-design.php:45
+msgid ""
+"Affects theme supported embeds. This affects multiple elements on the "
+"website, make sure to check your website after changing this."
+msgstr ""
+
+#: inc/customizer/theme-options/general/elements-design.php:68
+msgid ""
+"Affects theme supported image/post blocks, card layouts, etc. This affects "
+"multiple elements on the website, make sure to check your website after "
+"changing this."
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:277
+msgid "After Content"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:268
+msgid "After Excerpt"
+msgstr ""
+
+#: inc/template-tags.php:245
+msgid "ago"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:329
+msgid "Ajax load posts on click"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:25 inc/widgets/class-social-menu.php:55
+msgid "Alignment"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:112
+msgid "All Premium Modules"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:35
+#: inc/customizer/theme-options/upsellbkp.php:331
+#, php-format
+msgid ""
+"Along with the above sections, this theme comes with wide range of widgets "
+"that you can combine in any number and sequences and place in over 10+ "
+"widgetareas to build your unique website. <br/> <br/> Go to <a href=\"%s\" "
+"target=\"_blank\">widgets</a>."
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:587
+msgid "And many more features"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:121
+msgid "and Much More Stuff..."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:223
+msgid "Animated Loader"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:84
+msgid "Animation"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:494
+msgid "Animation options"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:206
+msgid "Archive Category Color Display"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:263
+msgid "Archive Category Position"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:225
+msgid "Archive Category Style"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:66
+msgid "Archive Options"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:42
+msgid "Archive Pagination Type"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:89
+msgid "Archive Post Meta"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:324
+msgid "Archive post metas"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:5
+msgid "Archive Post Options"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/init.php:6
+msgid "Archive Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:23
+msgid "Archive Style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:319
+msgid "Archive style"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:306
+msgid "Archive Tag Style"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:272
+msgid "Archives"
+msgstr ""
+
+#: inc/helpers.php:727 inc/helpers.php:1114
+msgid "Arrow Bar Right"
+msgstr ""
+
+#: inc/helpers.php:731 inc/helpers.php:1118
+msgid "Arrow Right"
+msgstr ""
+
+#: inc/helpers.php:735 inc/helpers.php:1122
+msgid "Arrow Right Circle"
+msgstr ""
+
+#: inc/helpers.php:739 inc/helpers.php:1126
+msgid "Arrow Right Circle Fill"
+msgstr ""
+
+#: inc/helpers.php:743 inc/helpers.php:1130
+msgid "Arrow Right Short"
+msgstr ""
+
+#: inc/helpers.php:1022
+msgid "As Background Color"
+msgstr ""
+
+#: inc/helpers.php:1021
+msgid "As Color"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:71 inc/widgets/class-list-posts.php:71
+#: inc/widgets/class-popular-posts.php:71
+#: inc/widgets/class-post-ids-special-grid.php:82
+#: inc/widgets/class-posts-carousel.php:72
+#: inc/widgets/class-posts-slider.php:72
+#: inc/widgets/class-single-column-posts.php:71
+#: inc/widgets/class-tab-posts.php:84 inc/widgets/class-tab-posts.php:146
+#: inc/widgets/class-tab-posts.php:208
+#: inc/customizer/theme-options/front-page/banner.php:313
+#: inc/customizer/theme-options/front-page/ticker-posts.php:317
+#: inc/customizer/theme-options/front-page/trending-posts.php:218
+#: inc/customizer/theme-options/single/author-posts.php:150
+#: inc/customizer/theme-options/single/related-posts.php:150
+msgid "ASC"
+msgstr ""
+
+#: inc/post-meta/init.php:71 inc/widgets/class-grid-posts.php:83
+#: inc/widgets/class-list-posts.php:83 inc/widgets/class-popular-posts.php:83
+#: inc/widgets/class-post-ids-special-grid.php:123
+#: inc/widgets/class-posts-carousel.php:84
+#: inc/widgets/class-posts-slider.php:84
+#: inc/widgets/class-single-column-posts.php:151
+#: inc/widgets/class-tab-posts.php:271
+#: inc/customizer/theme-options/archive/archive.php:97
+#: inc/customizer/theme-options/front-page/banner.php:658
+#: inc/customizer/theme-options/front-page/pinned-posts.php:354
+#: inc/customizer/theme-options/front-page/trending-posts.php:340
+#: inc/customizer/theme-options/single/author-posts.php:272
+#: inc/customizer/theme-options/single/related-posts.php:272
+#: inc/customizer/theme-options/single/single.php:86
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:434
+msgid "Author box social links"
+msgstr ""
+
+#: inc/post-meta/init.php:97
+msgid "Author Elements"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:220
+msgid "Author Image:"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:39
+#: inc/customizer/theme-options/upsellbkp.php:335
+msgid "Author Info ( 3+ Styles )"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:354
+msgid "Author info box"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-box.php:61
+msgid "Author Info Box Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-box.php:5
+msgid "Author Info Box Options"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-box.php:146
+msgid "Author Info Box Style"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:258
+msgid "Author Info Style"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-box.php:87
+msgid "Author Info Title"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-box.php:126
+msgid "Author Info Title Align"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-box.php:106
+msgid "Author Info Title Style"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:202
+msgid "Author Name:"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:208
+msgid "Author Position:"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:216
+msgid "Author Post Category Style"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:269
+msgid "Author Post Meta"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:5
+msgid "Author Post Options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:349
+msgid "Author posts"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:190
+msgid "Author Posts Category Color Display"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:43
+msgid "Author Posts Title"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:82
+msgid "Author Posts Title Align"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:62
+msgid "Author Posts Title Style"
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:209
+#: inc/widgets/class-posts-slider.php:196
+msgid "Autoplay"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:385
+#: inc/customizer/theme-options/front-page/ticker-posts.php:384
+msgid "Autoplay Speed"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:207
+msgid "Awesome starter templates for themes made by UnfoldWP."
+msgstr ""
+
+#: inc/customizer/controls/section-upsell.php:42
+msgid "Back"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:100
+#: inc/widgets/class-call-to-action.php:109
+#: inc/widgets/class-mailchimp-form.php:81
+#: inc/widgets/class-mailchimp-form.php:90
+#: inc/customizer/theme-options/general/buttons.php:65
+#: inc/customizer/theme-options/header/button-one.php:254
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/general/card-elements.php:46
+msgid ""
+"Background color for global elements that have card style where the element "
+"has inverted color."
+msgstr ""
+
+#: inc/customizer/theme-options/general/card-elements.php:24
+msgid ""
+"Background color for global elements that have card style. Make sure to "
+"check you website after changing this as this will affect all the elements "
+"that have card styles."
+msgstr ""
+
+#: inc/customizer/theme-options/general/buttons.php:86
+#: inc/customizer/theme-options/header/button-one.php:274
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:115
+#: inc/widgets/class-call-to-action.php:119
+#: inc/widgets/class-mailchimp-form.php:96
+#: inc/widgets/class-mailchimp-form.php:100
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:525
+msgid ""
+"Background image with options like position, size, repeat, overlay, fixed "
+"background, etc"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:428
+msgid "Banner Arrows Background"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:188
+msgid "Banner carousel multiple style"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:576
+msgid "Banner Category Color Display"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:602
+msgid "Banner Category Style"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:789
+msgid "Banner Description Length"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:148
+msgid "Banner Display As"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:124
+msgid "Banner Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:6
+msgid "Banner Options"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:655
+msgid "Banner Post Meta"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:835
+msgid "Banner Read More Text"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:44
+msgid "Banner Section Background"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:168
+msgid "Banner slider multiple style"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:64
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:104
+msgid "Banner Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:84
+msgid "Banner Title Style"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:41
+msgid "Beautiful Dark Mode"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:51
+msgid "Before Homepage Columns"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:267
+#: inc/customizer/theme-options/single/single.php:276
+msgid "Before Title"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:229
+msgid "Beginner friendly WordPress contact form plugin."
+msgstr ""
+
+#: inc/helpers.php:747 inc/helpers.php:1134
+msgid "Bell"
+msgstr ""
+
+#: inc/helpers.php:751 inc/helpers.php:1138
+msgid "Bell Fill"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:155
+#: inc/customizer/theme-options/widgetareas/below-footer.php:6
+msgid "Below Footer"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:161
+#: inc/customizer/theme-options/widgetareas/below-footer-nc.php:6
+msgid "Below Footer - No Container"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:45
+#: inc/customizer/theme-options/widgetareas/below-header.php:6
+msgid "Below Header"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/below-home.php:6
+msgid "Below Home"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-after-posts.php:6
+msgid "Below Home Posts"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:97
+msgid "Below Homepage"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/body.php:7
+msgid "Body"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:123
+msgid "Body font option"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:391
+msgid "Body font sizes"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:128
+msgid "Body responisve font sizes"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:20
+msgid "Body text color"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/body.php:42
+msgid "Body Text Font Weight"
+msgstr ""
+
+#: inc/helpers.php:755 inc/helpers.php:1142
+msgid "Bookmark"
+msgstr ""
+
+#: inc/helpers.php:759 inc/helpers.php:1146
+msgid "Bookmark Fill"
+msgstr ""
+
+#: inc/helpers.php:1244
+msgid "Border Below"
+msgstr ""
+
+#: inc/customizer/theme-options/general/buttons.php:107
+#: inc/customizer/theme-options/header/button-one.php:294
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/theme-options/general/buttons.php:128
+#: inc/customizer/theme-options/header/button-one.php:314
+msgid "Border Hover Color"
+msgstr ""
+
+#: inc/helpers.php:1243
+msgid "Bordered"
+msgstr ""
+
+#: inc/customizer/theme-options/general/progressbar.php:45
+msgid "Bottom"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:230 inc/widgets/class-popular-posts.php:152
+#: inc/customizer/theme-options/front-page/trending-posts.php:627
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:231 inc/widgets/class-popular-posts.php:153
+#: inc/customizer/theme-options/front-page/trending-posts.php:628
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/helpers.php:1245
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:130
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/theme-options/general/breadcrumb.php:43
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/customizer/theme-options/general/breadcrumb.php:5
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:269
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:268
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:55
+msgid "Button Class"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:72
+msgid "Button Display Style"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:53
+#: inc/customizer/theme-options/header/button-one.php:92
+msgid "Button Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:21
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:38
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:167
+msgid "Button on Responsive"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:47
+msgid "Button Style"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:38
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/theme-options/general/buttons.php:5
+msgid "Buttons Options"
+msgstr ""
+
+#. %s: Author name.
+#: inc/template-tags.php:223 template-parts/content/content-search.php:32
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: classes/class-magty-walker-comment.php:113
+msgid "By Post Author"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:40
+#: inc/customizer/theme-options/upsellbkp.php:336
+msgid "Call To Action ( 4+ Styles )"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:78 inc/widgets/class-author-info.php:304
+#: inc/widgets/class-grid-posts.php:215 inc/widgets/class-heading.php:57
+#: inc/widgets/class-list-posts.php:183 inc/widgets/class-popular-posts.php:187
+#: inc/widgets/class-posts-carousel.php:243
+#: inc/widgets/class-single-column-posts.php:192
+#: inc/widgets/class-tab-posts.php:354
+msgid ""
+"Can be used if you have dark background and want lighter color on the text."
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:86
+#: inc/widgets/class-mailchimp-form.php:67
+msgid ""
+"Can be used if you have dark background color or image background and want "
+"lighter color on the text."
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:53 inc/widgets/class-list-posts.php:53
+#: inc/widgets/class-popular-posts.php:52
+#: inc/widgets/class-post-ids-special-grid.php:64
+#: inc/widgets/class-posts-carousel.php:54
+#: inc/widgets/class-posts-slider.php:54
+#: inc/widgets/class-single-column-posts.php:53
+#: inc/widgets/class-tab-posts.php:65 inc/widgets/class-tab-posts.php:127
+#: inc/widgets/class-tab-posts.php:189
+msgid ""
+"Can be useful if you want to skip certain number of posts. Leave as 0 if you "
+"do not want to use it."
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:69
+msgid "Capitalize Category Name"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:388
+msgid "Capitalize Primary Menu Text"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:511
+msgid "Capitalize Sub Menu Text"
+msgstr ""
+
+#: inc/helpers.php:1246
+msgid "Card Background"
+msgstr ""
+
+#: inc/customizer/theme-options/general/card-elements.php:23
+msgid "Card Element Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/general/card-elements.php:45
+msgid "Card Element Background Color For Inverted Color Block"
+msgstr ""
+
+#: inc/customizer/theme-options/general/card-elements.php:5
+msgid "Card Element Options"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:199
+msgid "Card Layout"
+msgstr ""
+
+#: inc/helpers.php:771 inc/helpers.php:1158
+msgid "Caret Right"
+msgstr ""
+
+#: inc/helpers.php:775 inc/helpers.php:1162
+msgid "Caret Right Fill"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:153
+msgid "Carousel"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:171
+msgid "Carousel Item Gap"
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:205
+msgid "Carousel margin"
+msgstr ""
+
+#: inc/woocommerce.php:247
+msgid "Cart Items"
+msgstr ""
+
+#: inc/template-tags.php:377
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:46
+#: inc/customizer/theme-options/upsellbkp.php:342
+msgid "Categories Grid ( 4+ Styles )"
+msgstr ""
+
+#: inc/template-tags.php:375
+msgid "Categories:"
+msgstr ""
+
+#: inc/post-meta/init.php:72 inc/post-meta/init.php:94
+#: inc/customizer/theme-options/archive/archive.php:101
+#: inc/customizer/theme-options/front-page/banner.php:206
+#: inc/customizer/theme-options/front-page/pinned-posts.php:109
+#: inc/customizer/theme-options/single/single.php:90
+msgid "Category"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:384
+msgid "Category banner image option"
+msgstr ""
+
+#: inc/category-meta/init.php:26 inc/category-meta/init.php:61
+#: inc/widgets/class-grid-posts.php:162 inc/widgets/class-list-posts.php:129
+#: inc/widgets/class-popular-posts.php:123
+#: inc/widgets/class-post-ids-special-grid.php:97
+#: inc/widgets/class-posts-carousel.php:163
+#: inc/widgets/class-posts-slider.php:163
+#: inc/widgets/class-single-column-posts.php:125
+#: inc/widgets/class-tab-posts.php:307
+msgid "Category Color"
+msgstr ""
+
+#: inc/post-meta/init.php:292
+#: inc/customizer/theme-options/single/single.php:215
+msgid "Category Color Display"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:379
+msgid "Category color option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:389
+msgid "Category different pagination"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:374
+msgid "Category image option"
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:56
+msgid "Category on Bottom"
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:57
+msgid "Category on Center"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:394
+msgid "Category post metas option"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:153 inc/widgets/class-list-posts.php:120
+#: inc/widgets/class-popular-posts.php:114
+#: inc/widgets/class-post-ids-special-grid.php:88
+#: inc/widgets/class-posts-carousel.php:154
+#: inc/widgets/class-posts-slider.php:154
+#: inc/widgets/class-single-column-posts.php:116
+msgid "Category Settings"
+msgstr ""
+
+#: inc/post-meta/init.php:306 inc/widgets/class-grid-posts.php:168
+#: inc/widgets/class-list-posts.php:135 inc/widgets/class-popular-posts.php:129
+#: inc/widgets/class-post-ids-special-grid.php:103
+#: inc/widgets/class-posts-carousel.php:169
+#: inc/widgets/class-posts-slider.php:169
+#: inc/widgets/class-single-column-posts.php:131
+#: inc/widgets/class-tab-posts.php:313
+#: inc/customizer/theme-options/single/single.php:234
+msgid "Category Style"
+msgstr ""
+
+#: inc/helpers.php:1294 inc/widgets/class-ads-code.php:30
+#: inc/widgets/class-popular-posts.php:149 inc/widgets/class-social-menu.php:58
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/theme-options/single/comments.php:61
+msgid "Center Align Comment Form Content"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:68
+msgid "Center Align Menu"
+msgstr ""
+
+#: inc/post-meta/init.php:173
+msgid "Center Align Page Header Meta"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:69
+msgid "Center Align Pagination"
+msgstr ""
+
+#: inc/post-meta/init.php:244
+#: inc/customizer/theme-options/single/single.php:132
+msgid "Center Align Post Header Meta"
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:56
+msgid "Center Aligned Form"
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:196
+msgid "Center Content"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:112
+msgid "Center the logo if no ad banner is present"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:111
+msgid "Centered Logo"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:88
+#: inc/customizer/theme-options/sidebar/general.php:66
+msgid "Check to make it a sticky sidebar."
+msgstr ""
+
+#: inc/helpers.php:767 inc/helpers.php:1154
+msgid "Chevron Double Right"
+msgstr ""
+
+#: inc/helpers.php:763 inc/helpers.php:1150
+msgid "Chevron Right"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:240
+#: inc/widgets/widget-base/abstract-widget-base.php:486
+msgid "Choose an Image"
+msgstr ""
+
+#: inc/category-meta/init.php:108
+msgid "Choose an image"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:227
+msgid "Choose Category"
+msgstr ""
+
+#: inc/widgets/class-heading.php:64
+msgid ""
+"Choose if you want different accent color. Only works on heading styles that "
+"use accent color."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:129
+msgid "Choose Pinned Posts Category"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:90
+msgid ""
+"Choose the post meta you want to be displayed on archive post listings.\n"
+"            Some meta values may not show on front end in case of certain "
+"archive style or if post have post-formats."
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:83
+msgid "Choose the post meta you want to be displayed on post detail page"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:250
+msgid "Choose Ticker posts category"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:151
+msgid "Choose Trending posts category"
+msgstr ""
+
+#: inc/customizer/theme-options/performance/widgets-css-optimization.php:21
+msgid ""
+"Choose whether to load widgets CSS as inline for only active items or load a "
+"single css file globally ( <strong>Loading globally can also be useful if "
+"you are using the widgets inside different wordpress blocks like columns or "
+"groups and the css for those widgets are not working</strong>)."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:448
+msgid "Circle Post Thumbnail"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:251
+msgid "Circle Style List Post Image"
+msgstr ""
+
+#: inc/widgets/class-popular-posts.php:162
+msgid "Circled Image"
+msgstr ""
+
+#: template-parts/header/canvas-modal.php:21
+msgid "Close Off Canvas"
+msgstr ""
+
+#: inc/helpers.php:779
+msgid "Clowd Arrow Down"
+msgstr ""
+
+#: inc/helpers.php:783
+msgid "Clowd Arrow Down Fill"
+msgstr ""
+
+#: inc/helpers.php:787
+msgid "Clowd Arrow Up"
+msgstr ""
+
+#: inc/helpers.php:791
+msgid "Clowd Arrow Up Fill"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:57
+msgid "Color Options"
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:233
+#: inc/widgets/class-social-menu.php:44
+msgid "Column"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:43
+msgid "Columns Order"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:44
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:499
+msgid "Coming soon mode"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:339
+msgid "Comma ( , ) separated posts ids. Ex: 1, 2, 3"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:154
+msgid ""
+"Comma ( , ) separated posts ids. Ex: 1, 2. Only a fixed amount of posts will "
+"be shown based on relative pinned posts style."
+msgstr ""
+
+#: inc/post-meta/init.php:75 inc/widgets/class-grid-posts.php:86
+#: inc/widgets/class-list-posts.php:86 inc/widgets/class-popular-posts.php:86
+#: inc/widgets/class-post-ids-special-grid.php:126
+#: inc/widgets/class-posts-carousel.php:87
+#: inc/widgets/class-posts-slider.php:87
+#: inc/widgets/class-single-column-posts.php:154
+#: inc/widgets/class-tab-posts.php:274
+#: inc/customizer/theme-options/archive/archive.php:100
+#: inc/customizer/theme-options/front-page/banner.php:661
+#: inc/customizer/theme-options/front-page/pinned-posts.php:357
+#: inc/customizer/theme-options/front-page/trending-posts.php:343
+#: inc/customizer/theme-options/single/author-posts.php:275
+#: inc/customizer/theme-options/single/related-posts.php:275
+#: inc/customizer/theme-options/single/single.php:89
+msgid "Comment"
+msgstr ""
+
+#: inc/widgets/class-popular-posts.php:63 inc/widgets/class-tab-posts.php:76
+#: inc/widgets/class-tab-posts.php:138 inc/widgets/class-tab-posts.php:200
+msgid "Comment Count"
+msgstr ""
+
+#. %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:278
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:224
+msgid "Comments"
+msgstr ""
+
+#: comments.php:98
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/customizer/theme-options/single/comments.php:5
+msgid "Comments Options"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:214
+msgid "Comments Settings"
+msgstr ""
+
+#. %s: Comment count number.
+#: inc/template-tags.php:305
+#, php-format
+msgctxt "Comments title"
+msgid "%s"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Comment count number.
+#: comments.php:46 inc/template-tags.php:313
+#, php-format
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/controls/upsell.php:55
+#: inc/dashboard/sections/getting-started.php:87
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/init.php:7
+msgid "Contains all front page settings"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/init.php:7
+msgid "Contains all sidebar settings"
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:50
+msgid "Content Inline + Form Items Inline"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/single/styles/style-1.php:14
+#: template-parts/single/styles/style-2.php:15
+#: template-parts/single/styles/style-3.php:12
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/helpers.php:438 template-parts/footer/footer-info.php:28
+msgid "Copyright &copy; {{ date }}"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:150
+msgid "Copyright Date Format"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:130
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:86
+msgid ""
+"Coud not find what you were looking for on the documentation? Reach out to "
+"us and our dedicated team of members will help you to solve your problems."
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:248
+msgid "Could not verifry the nonce."
+msgstr ""
+
+#: inc/customizer/theme-options/performance/widgets-css-optimization.php:20
+msgid "Css Loading Options"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:33
+msgid "CTA Description"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:25
+msgid "CTA Settings"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:29
+msgid "CTA Title"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:419
+msgid "Custom widgets"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:794 lib/breadcrumbs/breadcrumbs.php:1223
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:29
+#: inc/customizer/theme-options/footer/sub-footer.php:29
+#: inc/customizer/theme-options/front-page/ticker-posts.php:47
+#: inc/customizer/theme-options/header/top-bar.php:347
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:27
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:74
+msgid "Dark Mode"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:264
+#: inc/customizer/theme-options/upsellbkp.php:288
+#: inc/customizer/theme-options/upsellbkp.php:314
+#: inc/customizer/theme-options/upsellbkp.php:370
+#: inc/customizer/theme-options/upsellbkp.php:458
+msgid "Dark mode options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:70
+#: inc/customizer/theme-options/footer/sub-footer.php:70
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:68
+msgid "Dark Theme Background"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:248
+msgid "Darkmode option"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:405
+msgid "Dashboard"
+msgstr ""
+
+#: inc/post-meta/init.php:74 inc/widgets/class-grid-posts.php:60
+#: inc/widgets/class-grid-posts.php:85 inc/widgets/class-list-posts.php:60
+#: inc/widgets/class-list-posts.php:85 inc/widgets/class-popular-posts.php:59
+#: inc/widgets/class-popular-posts.php:85
+#: inc/widgets/class-post-ids-special-grid.php:71
+#: inc/widgets/class-post-ids-special-grid.php:125
+#: inc/widgets/class-posts-carousel.php:61
+#: inc/widgets/class-posts-carousel.php:86
+#: inc/widgets/class-posts-slider.php:61 inc/widgets/class-posts-slider.php:86
+#: inc/widgets/class-single-column-posts.php:60
+#: inc/widgets/class-single-column-posts.php:153
+#: inc/widgets/class-tab-posts.php:72 inc/widgets/class-tab-posts.php:134
+#: inc/widgets/class-tab-posts.php:196 inc/widgets/class-tab-posts.php:273
+#: inc/customizer/theme-options/archive/archive.php:99
+#: inc/customizer/theme-options/front-page/banner.php:282
+#: inc/customizer/theme-options/front-page/banner.php:660
+#: inc/customizer/theme-options/front-page/pinned-posts.php:356
+#: inc/customizer/theme-options/front-page/ticker-posts.php:292
+#: inc/customizer/theme-options/front-page/ticker-posts.php:341
+#: inc/customizer/theme-options/front-page/trending-posts.php:193
+#: inc/customizer/theme-options/front-page/trending-posts.php:342
+#: inc/customizer/theme-options/single/author-posts.php:125
+#: inc/customizer/theme-options/single/author-posts.php:274
+#: inc/customizer/theme-options/single/related-posts.php:125
+#: inc/customizer/theme-options/single/related-posts.php:274
+#: inc/customizer/theme-options/single/single.php:88
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:98 inc/widgets/class-list-posts.php:104
+#: inc/widgets/class-popular-posts.php:98
+#: inc/widgets/class-post-ids-special-grid.php:138
+#: inc/widgets/class-posts-carousel.php:99
+#: inc/widgets/class-posts-slider.php:99
+#: inc/widgets/class-single-column-posts.php:166
+#: inc/widgets/class-tab-posts.php:286
+#: inc/customizer/theme-options/archive/archive.php:141
+#: inc/customizer/theme-options/front-page/banner.php:702
+#: inc/customizer/theme-options/front-page/pinned-posts.php:396
+#: inc/customizer/theme-options/front-page/ticker-posts.php:360
+#: inc/customizer/theme-options/front-page/trending-posts.php:384
+#: inc/customizer/theme-options/single/author-posts.php:316
+#: inc/customizer/theme-options/single/related-posts.php:316
+#: inc/customizer/theme-options/single/single.php:150
+msgid "Date Format"
+msgstr ""
+
+#: inc/widgets/class-popular-posts.php:161
+#: inc/widgets/class-post-categories-grid.php:55
+#: inc/customizer/theme-options/header/button-one.php:173
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:46
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:102 inc/widgets/class-list-posts.php:108
+#: inc/widgets/class-popular-posts.php:102
+#: inc/widgets/class-post-ids-special-grid.php:142
+#: inc/widgets/class-posts-carousel.php:103
+#: inc/widgets/class-posts-slider.php:103
+#: inc/widgets/class-single-column-posts.php:170
+#: inc/widgets/class-tab-posts.php:290
+#: inc/customizer/theme-options/archive/archive.php:147
+#: inc/customizer/theme-options/front-page/banner.php:708
+#: inc/customizer/theme-options/front-page/pinned-posts.php:402
+#: inc/customizer/theme-options/front-page/ticker-posts.php:366
+#: inc/customizer/theme-options/front-page/trending-posts.php:390
+#: inc/customizer/theme-options/single/author-posts.php:322
+#: inc/customizer/theme-options/single/related-posts.php:322
+#: inc/customizer/theme-options/single/single.php:156
+msgid "Default Format"
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:48
+msgid "Default Style"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:72 inc/widgets/class-list-posts.php:72
+#: inc/widgets/class-popular-posts.php:72
+#: inc/widgets/class-post-ids-special-grid.php:83
+#: inc/widgets/class-posts-carousel.php:73
+#: inc/widgets/class-posts-slider.php:73
+#: inc/widgets/class-single-column-posts.php:72
+#: inc/widgets/class-tab-posts.php:85 inc/widgets/class-tab-posts.php:147
+#: inc/widgets/class-tab-posts.php:209
+#: inc/customizer/theme-options/front-page/banner.php:314
+#: inc/customizer/theme-options/front-page/ticker-posts.php:318
+#: inc/customizer/theme-options/front-page/trending-posts.php:219
+#: inc/customizer/theme-options/single/author-posts.php:151
+#: inc/customizer/theme-options/single/related-posts.php:151
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:25
+#: inc/widgets/class-mailchimp-form.php:32
+msgid "Description"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:399
+msgid "Different design style for each category"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:404
+msgid "Different design style for each tags"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:88
+msgid "Different Logo Menu Bar"
+msgstr ""
+
+#: inc/post-meta/init.php:163
+msgid "Disable Page Breadcrumb"
+msgstr ""
+
+#: inc/post-meta/init.php:157
+msgid "Disable Page Title"
+msgstr ""
+
+#: inc/customizer/theme-options/woocommerce.php:124
+msgid "Disable Product page breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/woocommerce.php:65
+msgid "Disable Shop page breadcrumb"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:412 inc/dashboard/class-dashboard.php:462
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:68 inc/widgets/class-list-posts.php:159
+#: inc/widgets/class-post-categories-grid.php:53
+#: inc/widgets/class-posts-carousel.php:187
+#: inc/widgets/class-posts-slider.php:187
+msgid "Display Style"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:15
+msgid "Displays address and contact info"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:23
+msgid "Displays author short info."
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:14
+msgid "Displays MailChimp form if you have any"
+msgstr ""
+
+#: inc/widgets/class-popular-posts.php:13
+msgid "Displays popular posts with an image"
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:15
+msgid "Displays post categories with image in grid"
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:15
+msgid "Displays posts in carousel"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:14
+msgid "Displays posts in grid style"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:14
+msgid "Displays posts in list style"
+msgstr ""
+
+#: inc/widgets/class-single-column-posts.php:14
+msgid "Displays posts in single column style"
+msgstr ""
+
+#: inc/widgets/class-posts-slider.php:15
+msgid "Displays posts in slider"
+msgstr ""
+
+#: inc/widgets/class-post-ids-special-grid.php:15
+msgid "Displays posts in special grid style"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:21
+msgid "Displays posts in tab"
+msgstr ""
+
+#: inc/widgets/class-social-menu.php:14
+msgid "Displays social menu if you have set it."
+msgstr ""
+
+#: inc/widgets/class-heading.php:14
+msgid ""
+"Displays widget heading style to match the theme styles. It helps if you're "
+"using blocks in widgets but want a heading style of the theme."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:39
+#: inc/dashboard/sections/getting-started.php:79
+#: inc/dashboard/sections/getting-started.php:82
+msgid "Documentation"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:216
+msgid "E-mail:"
+msgstr ""
+
+#: classes/class-magty-walker-comment.php:98
+msgid "Edit"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: front-page.php:110 inc/template-tags.php:553
+#: template-parts/content/content-page.php:64
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:45
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:261
+msgid "Enable a Border Above Footer"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:92
+msgid "Enable a Border Above Footer Info"
+msgstr ""
+
+#: inc/customizer/theme-options/general/post-title.php:24
+msgid ""
+"Enable animated line during hover on post title of various widgets and posts "
+"elements."
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:219
+#: inc/widgets/class-posts-slider.php:206
+#: inc/customizer/theme-options/front-page/trending-posts.php:557
+msgid "Enable Arrows"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:515
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:104
+#: inc/widgets/class-mailchimp-form.php:85
+msgid "Enable Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:407
+msgid "Enable Banner Arrows"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:366
+msgid "Enable Banner Autoplay"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:456
+msgid "Enable Banner Dots"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:521
+msgid "Enable Border Bottom"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:551
+msgid "Enable Bottom Border"
+msgstr ""
+
+#: inc/customizer/theme-options/general/breadcrumb.php:23
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:112
+msgid "Enable Copyright"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:65
+msgid "Enable Different Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/woocommerce.php:105
+msgid "Enable Different Sidebar for Product Page"
+msgstr ""
+
+#: inc/customizer/theme-options/woocommerce.php:46
+msgid "Enable Different Sidebar for Shop Page"
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:224
+#: inc/widgets/class-posts-slider.php:211
+#: inc/customizer/theme-options/front-page/trending-posts.php:578
+msgid "Enable Dots"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:124
+#: inc/widgets/class-mailchimp-form.php:105
+msgid "Enable Fixed Background Image"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:152
+msgid "Enable Footer Background Image"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:132
+msgid "Enable Header Button"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:24
+msgid "Enable Home Banner"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:251
+msgid "Enable Image Border Radius"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-box.php:41
+msgid "Enable Info Box Background"
+msgstr ""
+
+#: inc/customizer/theme-options/general/post-title.php:23
+msgid "Enable line on hover"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:267
+msgid "Enable List Item Separator"
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:214
+#: inc/widgets/class-posts-slider.php:201
+#: inc/customizer/theme-options/front-page/trending-posts.php:536
+msgid "Enable Loop"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:197
+msgid "Enable Menu Bar Button"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:137
+msgid "Enable Menu Bar Social Nav Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:220
+#: inc/customizer/theme-options/header/top-bar.php:300
+msgid "Enable Mini Cart Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:240
+#: inc/customizer/theme-options/header/top-bar.php:321
+msgid "Enable My Account Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:31
+msgid "Enable Pinned Posts"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:209 inc/widgets/class-list-posts.php:177
+#: inc/widgets/class-post-ids-special-grid.php:172
+#: inc/widgets/class-posts-carousel.php:237
+#: inc/widgets/class-posts-slider.php:216
+#: inc/widgets/class-single-column-posts.php:186
+#: inc/widgets/class-tab-posts.php:364
+msgid "Enable Post Format Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:158
+#: inc/customizer/theme-options/header/top-bar.php:235
+msgid "Enable Random Post Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:178
+#: inc/customizer/theme-options/header/top-bar.php:256
+msgid "Enable Search Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:164
+#: inc/customizer/theme-options/sidebar/general.php:142
+msgid "Enable Sidebar Border"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:154
+msgid "Enable Social Menu Label"
+msgstr ""
+
+#: inc/customizer/theme-options/header/sticky-menu.php:25
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:89
+msgid "Enable Ticker Label"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:24
+msgid "Enable Ticker Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:133
+msgid "Enable Today's Date"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:85
+msgid "Enable Today's Time"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:23
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:276
+msgid "Enable Top Bar Button"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:213
+msgid "Enable Top Bar Nav Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:191
+msgid "Enable Top Bar Social Nav Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:531
+msgid "Enable Top Border"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:24
+msgid "Enable Trending Posts"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:43
+msgid "Enter a proper url with http: OR https:"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:152
+#: inc/customizer/theme-options/header/header.php:170
+msgid ""
+"Enter numeric value in px. For example, 20. Do not enter \"px\", only enter "
+"numeric value."
+msgstr ""
+
+#: inc/widgets/class-post-ids-special-grid.php:30
+msgid "Enter Post ID's"
+msgstr ""
+
+#: inc/helpers.php:795 inc/helpers.php:1166
+msgid "Envelope"
+msgstr ""
+
+#: inc/helpers.php:799 inc/helpers.php:1170
+msgid "Envelope Fill"
+msgstr ""
+
+#: inc/template-tags.php:260
+msgid "Estimated read time"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:127 inc/widgets/class-list-posts.php:216
+#: inc/widgets/class-posts-carousel.php:128
+#: inc/widgets/class-posts-slider.php:128
+#: inc/widgets/class-single-column-posts.php:90
+#: inc/customizer/theme-options/archive/archive.php:405
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/excerpt.php:6
+msgid "Excerpt Options"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:114
+#: inc/widgets/class-posts-carousel.php:115
+#: inc/widgets/class-posts-slider.php:115
+#: inc/widgets/class-single-column-posts.php:77
+msgid "Excerpt Settings"
+msgstr ""
+
+#: inc/post-meta/init.php:614
+msgid "Experience the full potential of your website with premium settings"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:192
+msgid "Express Post Style"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:201
+msgid "Express Post Title Limit"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:188
+msgid "Express Posts Settings"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:484
+msgid "Extended audio format support"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:432
+msgid "Extended audio formats"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:474
+msgid "Extended gallery format support"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:431
+msgid "Extended gallery formats"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:46
+msgid "Extended Post Formats"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:39
+msgid "Extended Typography Options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:479
+msgid "Extended video format support"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:433
+msgid "Extended video formats"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:41
+msgid "Fax"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:200
+msgid "Fax:"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:24
+msgid "Features"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:240
+msgid "Fixed Image Background"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:216
+msgid "Floating Related Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:430
+#: inc/dashboard/sections/free-vs-pro.php:344
+msgid "Floating related posts"
+msgstr ""
+
+#: template-parts/header/hooks.php:64 template-parts/header/hooks.php:315
+msgid "Follow Us :"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/body.php:23
+msgid "Font for body text"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/headings.php:23
+msgid "Font For Heading Titles"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/init.php:9
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:172
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:144
+#, php-format
+msgid "Footer Column %1$d"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:92
+msgid "Footer Column Layout"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:509
+msgid "Footer layouts"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:519
+msgid "Footer light/dark theme"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:308
+msgid "Footer margin & padding controls"
+msgstr ""
+
+#: functions.php:66
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:63
+#: inc/customizer/theme-options/footer/footer.php:8
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/init.php:10
+msgid "Footer options for the site."
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:24
+msgid "Footer Theme"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:131
+msgid "Footer Widgets Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:112
+msgid "Footer Widgets Title Style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:514
+msgid "Footer widgets title style & align options"
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:46
+msgid ""
+"For Inline Style, make sure to wrap each element ( like name, email, submit, "
+"etc. ) you want to display as inline, inside a \"&lt;p&gt;&lt;/p&gt;\" tag."
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:49
+msgid "Form Items Inline"
+msgstr ""
+
+#: inc/helpers.php:865
+msgid "Four Columns"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:25
+msgid "Free"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:192
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/init.php:6
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:6
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:24
+msgid "Front Page Sidebar Layout"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:68
+msgid "Frontpage Options"
+msgstr ""
+
+#: inc/helpers.php:953
+msgid "Full Column"
+msgstr ""
+
+#: inc/helpers.php:957
+msgid "Full Column Alternate"
+msgstr ""
+
+#: inc/helpers.php:676
+msgid "Full Image"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:129
+msgid "FullWidth"
+msgstr ""
+
+#: inc/customizer/theme-options/general/init.php:6
+msgid "General"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:257
+#: inc/dashboard/sections/getting-started.php:73
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/general.php:5
+msgid "General Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/general.php:23
+msgid "General Sidebar Layout"
+msgstr ""
+
+#: inc/helpers.php:803
+msgid "Geo Alt"
+msgstr ""
+
+#: inc/helpers.php:807
+msgid "Geo Alt Fill"
+msgstr ""
+
+#: inc/dashboard/sections/starter-templates.php:20
+msgid ""
+"Get access to carefully crafted professional and visually appealing website "
+"templates, saving you valuable time and effort in the development process."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:202
+msgid "Get Banner Content From"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:105
+msgid "Get Pinned Posts From"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:393
+msgid "Get Started"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:188
+msgid "Getting Started"
+msgstr ""
+
+#: inc/customizer/theme-options/general/elements-design.php:5
+msgid "Global Elements"
+msgstr ""
+
+#: functions.php:178
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:41
+#: inc/customizer/theme-options/upsellbkp.php:337
+msgid "Grid Posts ( Upto 5 Columns )"
+msgstr ""
+
+#: inc/widgets/class-post-ids-special-grid.php:158
+msgid "Grid Style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:113
+msgid "H1 - H6 color options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:118
+msgid "H1 - H6 responisve font sizes"
+msgstr ""
+
+#: inc/customizer/theme-options/header/init.php:6
+msgid "Header"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:268
+msgid "Header ad banner"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:25
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:6
+msgid "Header Button Elements"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:7
+msgid "Header Element Options"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:287
+msgid "Header margin & padding controls"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:61
+#: inc/customizer/theme-options/header/header.php:7
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/theme-options/header/init.php:7
+msgid "Header options for the site."
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:169
+msgid "Header Padding Bottom"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:151
+msgid "Header Padding Top"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:283
+msgid "Header section dimensions"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:46
+msgid "Header Style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:263
+msgid "Header style"
+msgstr ""
+
+#: inc/helpers.php:697
+msgid "Header Style 1"
+msgstr ""
+
+#: inc/helpers.php:701
+msgid "Header Style 2"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:42
+#: inc/customizer/theme-options/upsellbkp.php:338
+msgid "Heading ( 10+ Styles )"
+msgstr ""
+
+#: inc/customizer/theme-options/single/comments.php:40
+msgid "Heading Align"
+msgstr ""
+
+#: inc/widgets/class-heading.php:50
+msgid "Heading Alignment"
+msgstr ""
+
+#: inc/widgets/class-heading.php:44
+#: inc/customizer/theme-options/single/comments.php:21
+msgid "Heading Style"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/headings.php:42
+msgid "Heading Titles Font Weight"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/headings.php:7
+msgid "Headings"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:108
+msgid "Headings font option"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:95
+#: inc/widgets/class-mailchimp-form.php:76
+msgid "Height (px)"
+msgstr ""
+
+#. %s: User Name.
+#: inc/dashboard/sections/getting-started.php:17
+#, php-format
+msgid "Hello %s,"
+msgstr ""
+
+#: inc/customizer/controls/section-upsell.php:51
+msgid "Help"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:33
+msgid "Help and support"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:171
+msgid "Hidden"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:607
+msgid "Hide Arrows on Responsive"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:647
+msgid "Hide Category on Responsive"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/general.php:44
+msgid "Hide Global Sidebar on Mobile"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:220
+msgid "Hide Image"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:587
+msgid "Hide Label on Responsive"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:256
+msgid "Hide List Post Image"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:667
+msgid "Hide Meta Info on Responsive"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:168
+msgid "Hide Offcanvas menu on Desktop"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:148
+msgid "Hide Offcanvas on Desktop"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:42
+msgid "Hide on Desktop"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:52
+msgid "Hide on Mobile"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:47
+msgid "Hide on Tablet"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:359
+msgid "Hide Post Image"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:45
+msgid "Hide Sidebar on Mobile"
+msgstr ""
+
+#: inc/customizer/theme-options/header/site-identity.php:17
+msgid "Hide Site Title"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:181
+msgid "Hide Small Column on Mobile"
+msgstr ""
+
+#: inc/customizer/theme-options/header/site-identity.php:36
+msgid "Hide Tagline"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:524
+msgid "Hide theme credit link"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:627
+msgid "Hide Thumbnail on Responsive"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:43
+msgid "Hide Top Bar on Mobile"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:524
+msgid "Hide/show on desktop, tablet or mobile"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:35
+msgid "High priority support"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:270
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:6
+msgid "Home Columns"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/homepage-settings.php:85
+msgid "Home Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/homepage-settings.php:60
+msgid "Home Title Style"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:91
+msgid "Homepage After Posts"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:183
+msgid "Homepage banner carousel option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:203
+msgid "Homepage banner section dimensions"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:208
+msgid "Homepage banner section dividers"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:198
+msgid "Homepage banner section visibility options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:163
+msgid "Homepage banner slider option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:173
+msgid "Homepage banner thumbnail option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:178
+msgid "Homepage banner thumbnail style"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:75
+msgid "Homepage Before Posts"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:57
+msgid "Homepage Column One"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:63
+msgid "Homepage Column Two"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:243
+msgid "Homepage custom sidebar"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:238
+msgid "Homepage layout option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:193
+msgid "Homepage pinned posts"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:84
+msgid "Homepage Sidebar"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:148
+msgid "Homepage ticker posts"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:228
+msgid "Homepage trending post section dimensions"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:233
+msgid "Homepage trending post section dividers"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:218
+msgid "Homepage trending post style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:223
+msgid "Homepage trending post visibility options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:213
+msgid "Homepage trending posts"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:100
+msgid "Hot"
+msgstr ""
+
+#: template-parts/home/ticker-posts.php:112
+msgid "Hot News"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:90
+msgid "Hot Post Settings"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:776
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. URI of the theme
+msgid "http://unfoldwp.com/products/magty/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://unfoldwp.com/"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:72
+#: inc/customizer/theme-options/header/button-one.php:334
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:189
+msgid "Icon Gap (In px)"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:354
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:172
+msgid "Icon Only"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:61 inc/widgets/class-list-posts.php:61
+#: inc/widgets/class-popular-posts.php:60
+#: inc/widgets/class-post-ids-special-grid.php:72
+#: inc/widgets/class-posts-carousel.php:62
+#: inc/widgets/class-posts-slider.php:62
+#: inc/widgets/class-single-column-posts.php:61
+#: inc/widgets/class-tab-posts.php:73 inc/widgets/class-tab-posts.php:135
+#: inc/widgets/class-tab-posts.php:197
+#: inc/customizer/theme-options/front-page/banner.php:283
+#: inc/customizer/theme-options/front-page/ticker-posts.php:293
+#: inc/customizer/theme-options/front-page/trending-posts.php:194
+#: inc/customizer/theme-options/single/author-posts.php:126
+#: inc/customizer/theme-options/single/related-posts.php:126
+msgid "ID"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:67
+msgid "If not enabled, default global sidebar is used."
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:26
+msgid ""
+"If you are using adsense code and it is not showing up, select \"None\" for "
+"the alignment."
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:54
+msgid "If you have any questions related to the theme, feel free to ask us."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:125
+msgid ""
+"If you want to show pinned posts on the side, use \"Boxed\" layout in here."
+msgstr ""
+
+#: inc/category-meta/init.php:127
+msgid "Image"
+msgstr ""
+
+#: inc/helpers.php:1001
+msgid "Image + Text Overlay"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:193
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:199
+msgid "Import your content, widgets and theme settings with one click."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:386
+#: inc/customizer/theme-options/front-page/ticker-posts.php:385
+msgid "In milliseconds"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:334
+msgid "Infinite scroll load posts"
+msgstr ""
+
+#: inc/post-meta/init.php:148 inc/post-meta/init.php:205
+#: inc/post-meta/init.php:216 inc/post-meta/init.php:230
+#: inc/post-meta/init.php:247 inc/post-meta/init.php:281
+#: inc/post-meta/init.php:296 inc/post-meta/init.php:310
+#: inc/post-meta/init.php:327 inc/post-meta/init.php:337
+#: inc/post-meta/init.php:351
+msgid "Inherit"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:56
+msgid "Inline"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:400
+#: inc/dashboard/sections/starter-templates.php:26
+msgid "Install & Activate"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:395
+msgid ""
+"Install and activate One Click Demo Import & UnfoldWP Import Companion "
+"plugin to import starter templates."
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:718
+msgid "Installed"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:717
+msgid "Installing"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:359
+msgid "Integrated social share option"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:246 inc/widgets/class-popular-posts.php:181
+msgid "Invert List Post"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:348
+msgid "Invert Post"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:473
+msgid "Invert Post Display"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:77 inc/widgets/class-author-info.php:301
+#: inc/widgets/class-call-to-action.php:85 inc/widgets/class-grid-posts.php:214
+#: inc/widgets/class-list-posts.php:182 inc/widgets/class-mailchimp-form.php:66
+#: inc/widgets/class-popular-posts.php:186
+#: inc/widgets/class-posts-carousel.php:242
+#: inc/widgets/class-single-column-posts.php:191
+#: inc/widgets/class-tab-posts.php:353
+msgid "Inverted Color"
+msgstr ""
+
+#: inc/widgets/class-heading.php:56
+msgid "Inverted Text Color"
+msgstr ""
+
+#: template-parts/content/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:71
+msgid "Items Aligned Center + Full Width Description"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:70
+msgid "Items Aligned Center + Small Width Description"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:72
+msgid "Items Aligned Left"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:73
+msgid "Items Aligned Right"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:80 inc/widgets/class-grid-posts.php:194
+msgid "Justify Content"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:218
+msgid "Label Style"
+msgstr ""
+
+#: inc/customizer/theme-options/general/elements-design.php:67
+msgid "Large Border Radius"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:47
+msgid "Large Col + Small Col"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:65
+msgid "Large Column Widget Style"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:103
+msgid "Large Column Widgets Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:84
+msgid "Large Column Widgets Title Style"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:162
+msgid "Latest"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:152
+msgid "Latest Post Settings"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:202
+msgid "Layout One"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:203
+msgid "Layout Two"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:182
+msgid "Layout: 3 Columns Card"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:149
+msgid "Layout: 3 Columns Grid"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:193
+msgid "Layout: 3 Columns Masonry"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:127
+msgid "Layout: Full Column"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:138
+msgid "Layout: Full Column Alternate"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:171
+msgid "Layout: Mixed Columns Grid"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:160
+msgid "Layout: Overlay Grid"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:105
+msgid "Layout: Single Column List"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:116
+msgid "Layout: Single Column List Alternate"
+msgstr ""
+
+#: comments.php:112
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:39 inc/widgets/class-tab-posts.php:101
+#: inc/widgets/class-tab-posts.php:163 inc/widgets/class-tab-posts.php:225
+msgid "Leave as it is to show default title or leave blank to only show icon"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:92
+msgid "Leave empty if you don't want the image to have a link"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:228
+msgid "Leave Empty if you don't want the posts to be category specific"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:29 inc/widgets/class-list-posts.php:29
+#: inc/widgets/class-popular-posts.php:28
+#: inc/widgets/class-posts-carousel.php:30
+#: inc/widgets/class-posts-slider.php:30
+#: inc/widgets/class-single-column-posts.php:29
+#: inc/widgets/class-tab-posts.php:49 inc/widgets/class-tab-posts.php:111
+#: inc/widgets/class-tab-posts.php:173
+msgid "Leave empty if you don't want the posts to be category specific"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:65
+#: inc/customizer/theme-options/front-page/pinned-posts.php:49
+#: inc/customizer/theme-options/front-page/trending-posts.php:65
+msgid "Leave empty if you don't want to show the title."
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:137 inc/widgets/class-list-posts.php:226
+#: inc/widgets/class-posts-carousel.php:138
+#: inc/widgets/class-posts-slider.php:138
+#: inc/widgets/class-single-column-posts.php:100
+msgid "Leave Empty if you want to use default text \"Read More\" "
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:465
+msgid "Leave empty if you want to use default text \"Read More\"."
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:173
+msgid "Leave empty if you want to use the default text \"Follow Us:\"."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:193
+msgid "Leave empty if you want to use the default text \"Hot News\"."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:836
+#: inc/customizer/theme-options/single/author-posts.php:430
+#: inc/customizer/theme-options/single/related-posts.php:430
+msgid "Leave empty if you want to use the default text \"Read more\"."
+msgstr ""
+
+#: inc/helpers.php:1293 inc/widgets/class-ads-code.php:29
+#: inc/widgets/class-social-menu.php:57
+#: inc/customizer/theme-options/footer/scroll-to-top.php:46
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:162
+msgid "Left Express + 2 Columns Right List"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:161
+msgid "Left Express + Right List"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:340
+msgid "Left Image + Right Content"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:164
+msgid "Left List + Center Express + Inverted Right List"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:163
+msgid "Left List + Center Express + Right List"
+msgstr ""
+
+#: inc/helpers.php:911
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:388
+msgid "Letter spacings"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:28
+#: inc/customizer/theme-options/footer/sub-footer.php:28
+#: inc/customizer/theme-options/front-page/ticker-posts.php:46
+#: inc/customizer/theme-options/header/top-bar.php:346
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:26
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:48
+#: inc/customizer/theme-options/footer/sub-footer.php:48
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:46
+msgid "Light Theme Background"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:244
+#: inc/customizer/theme-options/single/single.php:253
+msgid "Limit Categories To Display"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:325
+#: inc/customizer/theme-options/single/single.php:334
+msgid "Limit Tags To Display"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:387
+msgid "Line heights"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:63
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:84
+msgid "Link Color Hover"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:42
+msgid "Link to url"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:261
+msgid "List Post Title Limit"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:43
+#: inc/customizer/theme-options/upsellbkp.php:339
+msgid "List Posts ( 11+ Styles )"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:242
+msgid "List Posts Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/performance/widgets-css-optimization.php:25
+msgid "Load Conditionally"
+msgstr ""
+
+#: inc/customizer/theme-options/performance/widgets-css-optimization.php:26
+msgid "Load Globally"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:49
+msgid "Load more post on click"
+msgstr ""
+
+#: inc/load-posts.php:21
+msgid "Load More Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:50
+msgid "Load more posts on scroll"
+msgstr ""
+
+#: template-parts/header/hooks.php:108 template-parts/header/hooks.php:359
+msgid "Login / Register"
+msgstr ""
+
+#. Name of the theme
+msgid "Magty"
+msgstr ""
+
+#: inc/customizer/controls/panel-upsell.php:37
+msgid "Magty Pro"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:387 inc/dashboard/class-dashboard.php:429
+#: inc/dashboard/sections/getting-started.php:44
+msgid "Magty Screenshot"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Magty serves as an all-in-one solution for magazine publishers aiming to "
+"create rich content experiences. With its stylish design and intuitive "
+"features, Magty helps publishers, bloggers, and content creators to "
+"captivate their audience with engaging content."
+msgstr ""
+
+#: inc/widgets/class-address-info.php:17
+msgid "Magty: Address Info"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:16
+msgid "Magty: Ads Code"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:22
+msgid "Magty: Author Info"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:16
+msgid "Magty: Call To Action"
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:17
+msgid "Magty: Categories Grid"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:16
+msgid "Magty: Grid Posts"
+msgstr ""
+
+#: inc/widgets/class-heading.php:16
+msgid "Magty: Heading"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:16
+msgid "Magty: List Posts"
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:16
+msgid "Magty: MailChimp Form"
+msgstr ""
+
+#: inc/widgets/class-post-ids-special-grid.php:17
+msgid "Magty: Overlay Grid Posts"
+msgstr ""
+
+#: inc/widgets/class-popular-posts.php:15
+msgid "Magty: Popular Posts"
+msgstr ""
+
+#: inc/widgets/class-posts-carousel.php:17
+msgid "Magty: Posts Carousel"
+msgstr ""
+
+#: inc/widgets/class-posts-slider.php:17
+msgid "Magty: Posts Slider"
+msgstr ""
+
+#: inc/widgets/class-single-column-posts.php:16
+msgid "Magty: Single Column Posts"
+msgstr ""
+
+#: inc/widgets/class-social-menu.php:16
+msgid "Magty: Social Menu"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:23
+msgid "Magty: Tab Posts"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:220
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:37
+msgid "MailChimp Form Shortcode"
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:24
+msgid "Mailchimp Settings"
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:28
+msgid "Mailchimp Title"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:44
+#: inc/customizer/theme-options/upsellbkp.php:340
+msgid "Mailchimp/Newsletter ( 3+ Styles )"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:167
+#: inc/customizer/theme-options/front-page/banner.php:729
+#: inc/customizer/theme-options/front-page/pinned-posts.php:422
+#: inc/customizer/theme-options/front-page/trending-posts.php:411
+#: inc/customizer/theme-options/single/author-posts.php:343
+#: inc/customizer/theme-options/single/related-posts.php:343
+#: inc/customizer/theme-options/single/single.php:176
+msgid "Make sure to enable Author post meta from above for this to work."
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:188
+#: inc/customizer/theme-options/single/single.php:197
+msgid "Make sure to enable Category post meta from above for this to work."
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:142
+#: inc/customizer/theme-options/front-page/banner.php:703
+#: inc/customizer/theme-options/front-page/pinned-posts.php:397
+#: inc/customizer/theme-options/front-page/ticker-posts.php:361
+#: inc/customizer/theme-options/front-page/trending-posts.php:385
+#: inc/customizer/theme-options/single/author-posts.php:317
+#: inc/customizer/theme-options/single/related-posts.php:317
+#: inc/customizer/theme-options/single/single.php:151
+msgid "Make sure to enable Date post meta from above for this to work."
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:288
+#: inc/customizer/theme-options/single/single.php:297
+msgid "Make sure to enable Tags post meta from above for this to work."
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:109 inc/widgets/class-popular-posts.php:109
+#: inc/widgets/class-posts-carousel.php:110
+#: inc/widgets/class-posts-slider.php:110
+#: inc/widgets/class-single-column-posts.php:177
+#: inc/widgets/class-tab-posts.php:297
+msgid "Make sure to select Author from above for this to work."
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:115
+#: inc/widgets/class-post-ids-special-grid.php:149
+msgid ""
+"Make sure to select Author from above for this to work. Will only show up in "
+"express post."
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:99 inc/widgets/class-list-posts.php:105
+#: inc/widgets/class-popular-posts.php:99
+#: inc/widgets/class-post-ids-special-grid.php:139
+#: inc/widgets/class-posts-carousel.php:100
+#: inc/widgets/class-posts-slider.php:100
+#: inc/widgets/class-single-column-posts.php:167
+#: inc/widgets/class-tab-posts.php:287
+msgid "Make sure to select Date from above for this to work."
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:93
+msgid "Make sure to select post meta from above for this to work."
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:150
+msgid "Make sure to select Show Category from above for this to work."
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:392
+msgid ""
+"Make use of awesome starter website templates & get your site up & ready in "
+"no time."
+msgstr ""
+
+#: inc/customizer/theme-options/single/init.php:7
+msgid "Manage options for single post pages."
+msgstr ""
+
+#: inc/customizer/theme-options/archive/init.php:7
+msgid "Manage posts options for archive."
+msgstr ""
+
+#: inc/customizer/theme-options/typography/init.php:7
+msgid "Manage typography settings for different elements of the site."
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/init.php:7
+msgid "Manage Widgetareas options."
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:48
+msgid "Many More"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:523
+msgid "Margin controls for desktop, tablet & mobile"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/excerpt.php:22
+msgid "Maximum Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-options/general/elements-design.php:44
+msgid "Medium Border Radius"
+msgstr ""
+
+#: template-parts/header/canvas-modal.php:41
+msgctxt "menu"
+msgid "Mobile"
+msgstr ""
+
+#: template-parts/header/hooks.php:223
+msgctxt "menu"
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:64
+msgid "Menu Badge"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:265
+msgid "Menu badge options"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:109
+msgid "Menu Bar Logo"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:288
+msgid "Menu Bar option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:138
+msgid "Menu color option"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:389
+msgid "Menu font sizes"
+msgstr ""
+
+#: inc/post-meta/init.php:89
+msgid "Metas"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:280
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:742
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:759
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:793 lib/breadcrumbs/breadcrumbs.php:849
+#: lib/breadcrumbs/breadcrumbs.php:1219
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:119
+msgid "More Archive Layouts"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:44
+msgid "More Blog Layouts"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:410
+msgid "More category styles"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:40
+#: inc/dashboard/sections/getting-started.php:116
+msgid "More Color Options"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:267
+#: inc/customizer/theme-options/upsellbkp.php:289
+#: inc/customizer/theme-options/upsellbkp.php:315
+#: inc/customizer/theme-options/upsellbkp.php:459
+msgid "More color options"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:118
+msgid "More Customizer Options"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:43
+#: inc/dashboard/sections/getting-started.php:115
+msgid "More Footer Options"
+msgstr ""
+
+#: inc/helpers.php:378 template-parts/single/author-posts.php:5
+msgid "More From Author"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:42
+#: inc/dashboard/sections/getting-started.php:114
+msgid "More Header Options"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:262
+#: inc/customizer/theme-options/upsellbkp.php:283
+#: inc/customizer/theme-options/upsellbkp.php:304
+#: inc/customizer/theme-options/upsellbkp.php:362
+#: inc/customizer/theme-options/upsellbkp.php:385
+#: inc/customizer/theme-options/upsellbkp.php:406
+#: inc/customizer/theme-options/upsellbkp.php:426
+#: inc/customizer/theme-options/upsellbkp.php:452
+#: inc/customizer/theme-options/upsellbkp.php:515
+msgid "More Options on Magty Pro!"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:120
+msgid "More Post Layouts"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:411
+msgid "More read more styles"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:313
+msgid "More scroll to top options"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:368
+msgid "More settings for home sections"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:309
+msgid "More sub footer styles"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:285
+msgid "More topbar options"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:45
+msgid "More Widget Options"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:117
+msgid "More Widgets Options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:153
+msgid "Multiple ticker labels"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:158
+msgid "Multiple ticker styles"
+msgstr ""
+
+#: template-parts/header/hooks.php:104 template-parts/header/hooks.php:355
+msgid "My Account"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:85
+msgid "Need Help?"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:36
+msgid "Need More Features?"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:53
+msgid "Need Support?"
+msgstr ""
+
+#: template-parts/pagination.php:58
+msgid "Newer Articles"
+msgstr ""
+
+#: comments.php:73
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/navigation.php:78
+msgid "Next Article"
+msgstr ""
+
+#: template-parts/navigation.php:79
+msgid "Next Post:"
+msgstr ""
+
+#: inc/post-meta/init.php:150 inc/post-meta/init.php:207
+#: inc/post-meta/init.php:249 inc/post-meta/init.php:283
+#: inc/post-meta/init.php:329 inc/post-meta/init.php:339
+#: inc/post-meta/init.php:353
+msgid "No"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:754
+msgid "No dismissable notice found."
+msgstr ""
+
+#: inc/helpers.php:642
+msgid "No Image"
+msgstr ""
+
+#: inc/load-posts.php:78
+msgid "No More Posts"
+msgstr ""
+
+#: inc/helpers.php:923
+msgid "No Sidebar - Narrow"
+msgstr ""
+
+#: inc/helpers.php:919
+msgid "No Sidebar - Wide"
+msgstr ""
+
+#: inc/helpers.php:723 inc/helpers.php:998 inc/helpers.php:1020
+#: inc/helpers.php:1110 inc/widgets/class-ads-code.php:28
+#: inc/customizer/theme-options/archive/archive.php:47
+msgid "None"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:74
+msgid "Normal"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:250
+msgid "Not found!"
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:771
+msgid "Notice Dismissed Successfully"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:102
+msgid "Number of Author Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:628
+#: inc/customizer/theme-options/front-page/pinned-posts.php:325
+#: inc/customizer/theme-options/front-page/ticker-posts.php:540
+#: inc/customizer/theme-options/front-page/trending-posts.php:310
+#: inc/customizer/theme-options/single/author-posts.php:242
+#: inc/customizer/theme-options/single/related-posts.php:242
+msgid "Number of Categories To Display"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:178 inc/widgets/class-list-posts.php:145
+#: inc/widgets/class-popular-posts.php:139
+#: inc/widgets/class-post-ids-special-grid.php:113
+#: inc/widgets/class-posts-carousel.php:179
+#: inc/widgets/class-posts-slider.php:179
+#: inc/widgets/class-single-column-posts.php:141
+#: inc/widgets/class-tab-posts.php:323
+msgid "Number of Category to Display"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:190
+#: inc/widgets/class-post-categories-grid.php:49
+msgid "Number of Column"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:238
+msgid "Number of comments to show"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:253
+#: inc/customizer/theme-options/front-page/ticker-posts.php:269
+#: inc/customizer/theme-options/front-page/trending-posts.php:170
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:44 inc/widgets/class-list-posts.php:44
+#: inc/widgets/class-popular-posts.php:43
+#: inc/widgets/class-post-ids-special-grid.php:55
+#: inc/widgets/class-posts-carousel.php:45
+#: inc/widgets/class-posts-slider.php:45
+#: inc/widgets/class-single-column-posts.php:44
+#: inc/widgets/class-tab-posts.php:265
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:102
+msgid "Number of Related Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:48
+msgid "Numeric"
+msgstr ""
+
+#: template-parts/header/hooks.php:189
+msgid "Off Canvas"
+msgstr ""
+
+#: template-parts/header/canvas-modal.php:8
+#: inc/dashboard/sections/free-vs-pro.php:299
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:6
+msgid "Offcanvas"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:39
+msgid "Offcanvas After Menu"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:33
+msgid "Offcanvas Before Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:46
+msgid "Offcanvas Icon Color"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:304
+msgid "Offcanvas light/dark theme"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:90
+msgid "Offcanvas Logo"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:309
+msgid "Offcanvas logo"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:22
+msgid "Offcanvas Theme"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:314
+msgid "Offcanvas widgets title style"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:52 inc/widgets/class-list-posts.php:52
+#: inc/widgets/class-popular-posts.php:51
+#: inc/widgets/class-post-ids-special-grid.php:63
+#: inc/widgets/class-posts-carousel.php:53
+#: inc/widgets/class-posts-slider.php:53
+#: inc/widgets/class-single-column-posts.php:52
+#: inc/widgets/class-tab-posts.php:64 inc/widgets/class-tab-posts.php:126
+#: inc/widgets/class-tab-posts.php:188
+msgid "Offset"
+msgstr ""
+
+#: template-parts/pagination.php:53
+msgid "Older Articles"
+msgstr ""
+
+#: comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: inc/widgets/class-social-menu.php:47
+msgid "One"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:198
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/widgets/class-post-ids-special-grid.php:40
+msgid ""
+"Only select category if you want the posts to be category specific instead "
+"of using post IDs from above."
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:249
+msgid "Oops! something went wrong."
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:112
+msgid "Open in New Tab"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:59
+msgid "Open Link in new Tab"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:69 inc/widgets/class-list-posts.php:69
+#: inc/widgets/class-popular-posts.php:69
+#: inc/widgets/class-post-ids-special-grid.php:80
+#: inc/widgets/class-posts-carousel.php:70
+#: inc/widgets/class-posts-slider.php:70
+#: inc/widgets/class-single-column-posts.php:69
+#: inc/widgets/class-tab-posts.php:82 inc/widgets/class-tab-posts.php:144
+#: inc/widgets/class-tab-posts.php:206
+#: inc/customizer/theme-options/front-page/banner.php:309
+#: inc/customizer/theme-options/front-page/ticker-posts.php:313
+#: inc/customizer/theme-options/front-page/trending-posts.php:214
+#: inc/customizer/theme-options/single/author-posts.php:146
+#: inc/customizer/theme-options/single/related-posts.php:146
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:58 inc/widgets/class-list-posts.php:58
+#: inc/widgets/class-post-ids-special-grid.php:69
+#: inc/widgets/class-tab-posts.php:70 inc/widgets/class-tab-posts.php:132
+#: inc/widgets/class-tab-posts.php:194
+msgid "Order By"
+msgstr ""
+
+#: inc/widgets/class-popular-posts.php:57
+#: inc/widgets/class-posts-carousel.php:59
+#: inc/widgets/class-posts-slider.php:59
+#: inc/widgets/class-single-column-posts.php:58
+msgid "Order by"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:278
+#: inc/customizer/theme-options/front-page/ticker-posts.php:288
+#: inc/customizer/theme-options/front-page/trending-posts.php:189
+#: inc/customizer/theme-options/single/author-posts.php:121
+#: inc/customizer/theme-options/single/related-posts.php:121
+msgid "Orderby"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:34
+#: inc/customizer/theme-options/upsellbkp.php:330
+msgid "Over 16+ Widgets"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:129
+#: inc/widgets/class-mailchimp-form.php:110
+#: inc/widgets/class-popular-posts.php:168
+#: inc/widgets/class-post-categories-grid.php:74
+#: inc/widgets/class-posts-slider.php:227
+#: inc/customizer/theme-options/front-page/banner.php:498
+#: inc/customizer/theme-options/front-page/pinned-posts.php:200
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:138
+#: inc/widgets/class-mailchimp-form.php:119
+#: inc/widgets/class-popular-posts.php:177
+#: inc/widgets/class-post-categories-grid.php:89
+#: inc/widgets/class-posts-slider.php:236
+#: inc/customizer/theme-options/footer/footer.php:213
+#: inc/customizer/theme-options/front-page/banner.php:524
+#: inc/customizer/theme-options/front-page/pinned-posts.php:225
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/widgets/class-posts-slider.php:240
+msgid "Overlay Style"
+msgstr ""
+
+#: inc/post-meta/init.php:257
+msgid "Override displayed post metas from the customizer on single post page?"
+msgstr ""
+
+#: inc/post-meta/init.php:81
+msgid ""
+"Override the customizer global settings from here. Leave as it is if you "
+"want it to be same as global settings."
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:705
+msgid "Padding Bottom (In px)"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:522
+msgid "Padding controls for desktop, tablet & mobile"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:686
+msgid "Padding Top (In px)"
+msgstr ""
+
+#. %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:276
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/post-meta/init.php:86 inc/post-meta/init.php:128
+#: inc/post-meta/init.php:185
+msgid "Page Layout"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:369
+msgid "Page layout option"
+msgstr ""
+
+#: front-page.php:96 template-parts/content/content-page.php:50
+#: template-parts/single/styles/style-1.php:27
+#: template-parts/single/styles/style-2.php:28
+#: template-parts/single/styles/style-3.php:25
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/theme-options/performance/init.php:6
+msgid "Performance"
+msgstr ""
+
+#: inc/helpers.php:811
+msgid "Person Circle"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:33
+msgid "Phone"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:170
+msgid "Phone:"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:300
+msgid "Pinned Post Category Style"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:351
+msgid "Pinned Post Meta"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:6
+msgid "Pinned Post Options"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:275
+msgid "Pinned Posts Category Color Display"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:48
+msgid "Pinned Posts Title"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:86
+msgid "Pinned Posts Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:67
+msgid "Pinned Posts Title Style"
+msgstr ""
+
+#: inc/helpers.php:1242
+#: inc/customizer/theme-options/front-page/ticker-posts.php:222
+msgid "Plain"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:659
+msgid "Please specify a plugin"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:680
+msgid "Plugin Activated Successfully"
+msgstr ""
+
+#: inc/helpers.php:815 inc/helpers.php:1174
+msgid "Plus"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:38
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:28
+msgid "Popular Post Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:45
+#: inc/customizer/theme-options/upsellbkp.php:341
+msgid "Popular Posts ( 2+ Styles )"
+msgstr ""
+
+#: template-parts/navigation.php:32
+msgid "Post"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:225
+msgid "Post Counter"
+msgstr ""
+
+#: inc/widgets/class-popular-posts.php:147
+msgid "Post Counter Position"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:383
+#: inc/customizer/theme-options/single/related-posts.php:383
+msgid "Post Description Length"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:249
+msgid "Post Format Audio"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:227
+msgid "Post Format Gallery"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:238
+msgid "Post Format Video"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:58
+msgid "Post formats support"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:207
+#: inc/customizer/theme-options/front-page/banner.php:338
+#: inc/customizer/theme-options/front-page/pinned-posts.php:110
+#: inc/customizer/theme-options/front-page/pinned-posts.php:153
+msgid "Post ID's"
+msgstr ""
+
+#: inc/widgets/class-post-ids-special-grid.php:31
+msgid "Post IDs, separated by commas. Eg: 1, 2, 3"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:81 inc/widgets/class-list-posts.php:81
+#: inc/widgets/class-popular-posts.php:81
+#: inc/widgets/class-post-ids-special-grid.php:121
+#: inc/widgets/class-posts-carousel.php:82
+#: inc/widgets/class-posts-slider.php:82
+#: inc/widgets/class-single-column-posts.php:149
+#: inc/widgets/class-tab-posts.php:269
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/theme-options/general/post-meta.php:23
+msgid "Post Meta Icons Color"
+msgstr ""
+
+#: inc/customizer/theme-options/general/post-meta.php:5
+msgid "Post Meta Options"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:77 inc/widgets/class-list-posts.php:77
+#: inc/widgets/class-popular-posts.php:77
+#: inc/widgets/class-post-ids-special-grid.php:117
+#: inc/widgets/class-posts-carousel.php:78
+#: inc/widgets/class-posts-slider.php:78
+#: inc/widgets/class-single-column-posts.php:145
+msgid "Post Meta Settings"
+msgstr ""
+
+#: inc/post-meta/init.php:254
+msgid "Post Metas"
+msgstr ""
+
+#: inc/post-meta/init.php:226
+msgid "Post Navigation Style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:464
+msgid "Post primary category option"
+msgstr ""
+
+#: inc/post-meta/init.php:73 inc/widgets/class-grid-posts.php:84
+#: inc/widgets/class-list-posts.php:84 inc/widgets/class-popular-posts.php:84
+#: inc/widgets/class-post-ids-special-grid.php:124
+#: inc/widgets/class-posts-carousel.php:85
+#: inc/widgets/class-posts-slider.php:85
+#: inc/widgets/class-single-column-posts.php:152
+#: inc/widgets/class-tab-posts.php:272
+#: inc/customizer/theme-options/archive/archive.php:98
+#: inc/customizer/theme-options/front-page/banner.php:659
+#: inc/customizer/theme-options/front-page/pinned-posts.php:355
+#: inc/customizer/theme-options/front-page/trending-posts.php:341
+#: inc/customizer/theme-options/single/author-posts.php:273
+#: inc/customizer/theme-options/single/related-posts.php:273
+#: inc/customizer/theme-options/single/single.php:87
+msgid "Post Read Time"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:24 inc/widgets/class-list-posts.php:24
+#: inc/widgets/class-popular-posts.php:23
+#: inc/widgets/class-post-ids-special-grid.php:26
+#: inc/widgets/class-posts-carousel.php:25
+#: inc/widgets/class-posts-slider.php:25
+#: inc/widgets/class-single-column-posts.php:24
+msgid "Post Settings"
+msgstr ""
+
+#: inc/post-meta/init.php:212
+msgid "Post Style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:469
+msgid "Post subtitle option"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:205
+msgid "Post Subtitle Options"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:435
+msgid "Post subtitle options"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:237 inc/widgets/class-popular-posts.php:192
+#: inc/widgets/class-post-ids-special-grid.php:177
+#: inc/widgets/class-posts-carousel.php:248
+#: inc/widgets/class-posts-slider.php:221
+#: inc/widgets/class-single-column-posts.php:197
+#: inc/widgets/class-tab-posts.php:369
+#: inc/customizer/theme-options/archive/archive.php:365
+#: inc/customizer/theme-options/front-page/banner.php:748
+#: inc/customizer/theme-options/front-page/pinned-posts.php:440
+#: inc/customizer/theme-options/front-page/trending-posts.php:430
+#: inc/customizer/theme-options/single/author-posts.php:509
+#: inc/customizer/theme-options/single/related-posts.php:509
+msgid "Post Title Limit"
+msgstr ""
+
+#: inc/customizer/theme-options/general/post-title.php:5
+msgid "Post Title Options"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:49
+#: inc/customizer/theme-options/upsellbkp.php:345
+msgid "Posts Carousel ( 2+ Styles )"
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:61
+msgid "Posts Navigation"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:47
+#: inc/customizer/theme-options/upsellbkp.php:343
+msgid "Posts Overlay Grid ( 7+ Styles )"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:48
+#: inc/customizer/theme-options/upsellbkp.php:344
+msgid "Posts slider ( 2+ Styles )"
+msgstr ""
+
+#: template-parts/footer/footer-info.php:48
+#, php-format
+msgid "Powered by %1$s."
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:38
+msgid "Predesigned website templates"
+msgstr ""
+
+#: inc/customizer/theme-options/general/preloader.php:65
+msgid "Preloader Color"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:68
+msgid "Preloader option"
+msgstr ""
+
+#: inc/customizer/theme-options/general/preloader.php:5
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/customizer/theme-options/general/preloader.php:43
+msgid "Preloader Page Background Color"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:16
+#: inc/dashboard/sections/shortcodes.php:4
+msgid "PREMIUM"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:38
+msgid "Premium Modules"
+msgstr ""
+
+#: inc/customizer/controls/upsell.php:47
+msgid "Premium Support"
+msgstr ""
+
+#: inc/customizer/controls/panel-upsell.php:34
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: inc/customizer/controls/section-upsell.php:34
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: template-parts/navigation.php:66
+msgid "Previous Article"
+msgstr ""
+
+#: template-parts/navigation.php:67
+msgid "Previous Post:"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:19
+msgid "Primary Color"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:133
+msgid "Primary color option"
+msgstr ""
+
+#: functions.php:64 inc/customizer/theme-options/typography/primary-menu.php:7
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:346
+msgid "Primary Menu Active Item Border Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:325
+msgid "Primary Menu Active Item Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:25
+msgid "Primary Menu Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:7
+msgid "Primary Menu Bar Options"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:367
+msgid "Primary Menu Description Color"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/primary-menu.php:23
+msgid "Primary Menu Font"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:88
+msgid "Primary menu font option"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/primary-menu.php:42
+msgid "Primary Menu Font Weight"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:93
+msgid "Primary menu responisve font sizes"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:262
+msgid "Primary Menu Text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:304
+msgid "Primary Menu Text Hover Border Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:283
+msgid "Primary Menu Text Hover Color"
+msgstr ""
+
+#: inc/customizer/controls/panel-upsell.php:35
+#: inc/dashboard/sections/getting-started.php:126
+msgid "PRO"
+msgstr ""
+
+#: inc/customizer/controls/section-upsell.php:35
+#: inc/dashboard/sections/free-vs-pro.php:26
+msgid "Pro"
+msgstr ""
+
+#: inc/woocommerce.php:240
+msgid "Product Added to cart"
+msgstr ""
+
+#: inc/customizer/theme-options/woocommerce.php:84
+msgid "Product Page Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/general/progressbar.php:64
+msgid "Progressbar Color"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:73
+msgid "Progressbar option"
+msgstr ""
+
+#: inc/customizer/theme-options/general/progressbar.php:5
+msgid "Progressbar Options"
+msgstr ""
+
+#: inc/customizer/theme-options/general/progressbar.php:40
+msgid "Progressbar Position"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:51
+msgid "Quick Settings"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:63 inc/widgets/class-list-posts.php:63
+#: inc/widgets/class-popular-posts.php:62
+#: inc/widgets/class-post-ids-special-grid.php:74
+#: inc/widgets/class-posts-carousel.php:64
+#: inc/widgets/class-posts-slider.php:64
+#: inc/widgets/class-single-column-posts.php:63
+#: inc/widgets/class-tab-posts.php:75 inc/widgets/class-tab-posts.php:137
+#: inc/widgets/class-tab-posts.php:199
+#: inc/customizer/theme-options/front-page/banner.php:285
+#: inc/customizer/theme-options/front-page/ticker-posts.php:295
+#: inc/customizer/theme-options/front-page/trending-posts.php:196
+#: inc/customizer/theme-options/single/author-posts.php:128
+#: inc/customizer/theme-options/single/related-posts.php:128
+msgid "Random"
+msgstr ""
+
+#: inc/helpers.php:1867 inc/helpers.php:1869
+msgid "Random Article"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:93
+msgid "Rate Us"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:436 inc/widgets/class-list-posts.php:584
+#: inc/widgets/class-list-posts.php:614
+#: inc/widgets/class-posts-carousel.php:520
+#: inc/widgets/class-posts-slider.php:444
+#: inc/widgets/class-single-column-posts.php:360
+#: template-parts/home/banner.php:247
+#: template-parts/single/author-posts.php:112
+#: template-parts/single/related-posts.php:124
+#: template-parts/archive/styles/archive_style_1.php:28
+#: template-parts/archive/styles/archive_style_2.php:28
+#: template-parts/archive/styles/archive_style_3.php:28
+#: template-parts/archive/styles/archive_style_4.php:28
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:147 inc/widgets/class-list-posts.php:236
+#: inc/widgets/class-posts-carousel.php:148
+#: inc/widgets/class-posts-slider.php:148
+#: inc/widgets/class-single-column-posts.php:110
+#: inc/customizer/theme-options/archive/archive.php:485
+#: inc/customizer/theme-options/front-page/banner.php:889
+#: inc/customizer/theme-options/single/author-posts.php:483
+#: inc/customizer/theme-options/single/related-posts.php:483
+msgid "Read More Icon"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:141 inc/widgets/class-list-posts.php:230
+#: inc/widgets/class-posts-carousel.php:142
+#: inc/widgets/class-posts-slider.php:142
+#: inc/widgets/class-single-column-posts.php:104
+#: inc/customizer/theme-options/archive/archive.php:444
+#: inc/customizer/theme-options/front-page/banner.php:861
+#: inc/customizer/theme-options/single/author-posts.php:455
+#: inc/customizer/theme-options/single/related-posts.php:455
+msgid "Read More Style"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:136 inc/widgets/class-list-posts.php:225
+#: inc/widgets/class-posts-carousel.php:137
+#: inc/widgets/class-posts-slider.php:137
+#: inc/widgets/class-single-column-posts.php:99
+#: inc/customizer/theme-options/archive/archive.php:464
+#: inc/customizer/theme-options/single/author-posts.php:429
+#: inc/customizer/theme-options/single/related-posts.php:429
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:409
+msgid "Read time options"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:189
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:237
+msgid ""
+"Regenerate the thumbnails for image uploads. Useful when images are not "
+"generating on proper size on frontend."
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:236
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:216
+msgid "Related Post Category Style"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:269
+msgid "Related Post Meta"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:5
+msgid "Related Post Options"
+msgstr ""
+
+#: inc/post-meta/init.php:100
+msgid "Related Posts"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:339
+msgid "Related posts"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:190
+msgid "Related Posts Category Color Display"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:43
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:82
+msgid "Related Posts Title Align"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:62
+msgid "Related Posts Title Style"
+msgstr ""
+
+#: inc/category-meta/init.php:21 inc/category-meta/init.php:55
+#: inc/widgets/class-author-info.php:243
+#: inc/widgets/widget-base/abstract-widget-base.php:489
+msgid "Remove image"
+msgstr ""
+
+#: 404.php:31
+msgid "Return to Homepage"
+msgstr ""
+
+#: inc/helpers.php:1295 inc/widgets/class-ads-code.php:31
+#: inc/widgets/class-social-menu.php:59
+#: inc/customizer/theme-options/footer/scroll-to-top.php:47
+msgid "Right"
+msgstr ""
+
+#: inc/helpers.php:915
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:53
+msgid "RTL ready"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:111
+msgid "Same as above footer but does not have its own container."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:163
+msgid "Same as below footer but does not have its own container."
+msgstr ""
+
+#: footer.php:33 inc/customizer/theme-options/footer/scroll-to-top.php:6
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:549
+msgid "Scroll to top"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/scroll-to-top.php:111
+msgid "Scroll To Top Background"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/scroll-to-top.php:133
+msgid "Scroll To Top Hover Background"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/scroll-to-top.php:67
+msgid "Scroll To Top Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/scroll-to-top.php:89
+msgid "Scroll To Top Icon Hover"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/scroll-to-top.php:42
+msgid "Scroll to Top Position"
+msgstr ""
+
+#: template-parts/header/hooks.php:140 template-parts/header/hooks.php:141
+#: template-parts/header/hooks.php:391 template-parts/header/hooks.php:392
+msgid "Search"
+msgstr ""
+
+#: search.php:66
+msgid "search again"
+msgstr ""
+
+#: template-parts/header/hooks.php:150 template-parts/header/hooks.php:401
+msgid "Search for:"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:214
+msgid "Search Form Button Background"
+msgstr ""
+
+#. %s is the search query.
+#: lib/breadcrumbs/breadcrumbs.php:274
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:519
+msgid "Section animation options"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:67
+#: inc/customizer/theme-options/widgetareas/home-columns.php:24
+msgid "Section Background"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/above-footer-nc.php:24
+#: inc/customizer/theme-options/widgetareas/above-footer.php:24
+#: inc/customizer/theme-options/widgetareas/above-home.php:24
+#: inc/customizer/theme-options/widgetareas/before-home-columns.php:24
+#: inc/customizer/theme-options/widgetareas/below-footer-nc.php:24
+#: inc/customizer/theme-options/widgetareas/below-footer.php:24
+#: inc/customizer/theme-options/widgetareas/below-header.php:24
+#: inc/customizer/theme-options/widgetareas/below-home.php:24
+msgid "Section Background Color"
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:40
+msgid "Select Categories"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:28 inc/widgets/class-list-posts.php:28
+#: inc/widgets/class-popular-posts.php:27
+#: inc/widgets/class-post-ids-special-grid.php:39
+#: inc/widgets/class-posts-carousel.php:29
+#: inc/widgets/class-posts-slider.php:29
+#: inc/widgets/class-single-column-posts.php:28
+#: inc/widgets/class-tab-posts.php:48 inc/widgets/class-tab-posts.php:110
+#: inc/widgets/class-tab-posts.php:172
+msgid "Select Category"
+msgstr ""
+
+#: inc/category-meta/init.php:28 inc/category-meta/init.php:64
+msgid ""
+"Select color for this category that will be displayed on the front end on "
+"many sections."
+msgstr ""
+
+#: inc/helpers.php:819 inc/helpers.php:1178
+msgid "send"
+msgstr ""
+
+#: inc/helpers.php:823 inc/helpers.php:1182
+msgid "Send Fill"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:43
+msgid "Seo optimized"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:71
+msgid "Set Menus"
+msgstr ""
+
+#: inc/customizer/theme-options/woocommerce.php:9
+msgid "Shop Page Options"
+msgstr ""
+
+#: inc/customizer/theme-options/woocommerce.php:26
+msgid "Shop Page Sidebar Layout"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:214
+msgid "Short Description:"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:504
+msgid "Shortcode modules"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:94
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:406
+msgid "Show Arrows"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:108 inc/widgets/class-list-posts.php:114
+#: inc/widgets/class-popular-posts.php:108
+#: inc/widgets/class-post-ids-special-grid.php:148
+#: inc/widgets/class-posts-carousel.php:109
+#: inc/widgets/class-posts-slider.php:109
+#: inc/widgets/class-single-column-posts.php:176
+#: inc/widgets/class-tab-posts.php:296
+#: inc/customizer/theme-options/archive/archive.php:166
+#: inc/customizer/theme-options/front-page/banner.php:728
+#: inc/customizer/theme-options/front-page/pinned-posts.php:421
+#: inc/customizer/theme-options/front-page/trending-posts.php:410
+#: inc/customizer/theme-options/single/author-posts.php:342
+#: inc/customizer/theme-options/single/related-posts.php:342
+#: inc/customizer/theme-options/single/single.php:175
+msgid "Show Author Image"
+msgstr ""
+
+#: inc/post-meta/init.php:324
+#: inc/customizer/theme-options/single/author-box.php:22
+msgid "Show Author Info Box"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:171
+msgid "Show Author Post Category"
+msgstr ""
+
+#: inc/post-meta/init.php:334
+#: inc/customizer/theme-options/single/author-posts.php:25
+msgid "Show Author Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:557
+msgid "Show Banner Category"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:770
+msgid "Show Banner Description"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:477
+msgid "Show Banner Overlay"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:816
+msgid "Show Banner Read More"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:149
+msgid "Show Categories on Express Post Only"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:157 inc/widgets/class-list-posts.php:124
+#: inc/widgets/class-popular-posts.php:118
+#: inc/widgets/class-post-ids-special-grid.php:92
+#: inc/widgets/class-posts-carousel.php:158
+#: inc/widgets/class-posts-slider.php:158
+#: inc/widgets/class-single-column-posts.php:120
+#: inc/widgets/class-tab-posts.php:302
+#: inc/customizer/theme-options/front-page/pinned-posts.php:257
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:187
+#: inc/customizer/theme-options/single/single.php:196
+msgid "Show Category Label"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:242
+msgid "Show Comment Avatar"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:247
+msgid "Show Comment Date"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:252
+msgid "Show Comment Excerpt"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:118 inc/widgets/class-list-posts.php:207
+#: inc/widgets/class-posts-carousel.php:119
+#: inc/widgets/class-posts-slider.php:119
+#: inc/widgets/class-single-column-posts.php:81
+#: inc/customizer/theme-options/archive/archive.php:386
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:204
+msgid "Show Footer Nav Menu"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:43 inc/widgets/class-tab-posts.php:105
+#: inc/widgets/class-tab-posts.php:167 inc/widgets/class-tab-posts.php:229
+msgid "Show Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:150
+msgid "Show Icon Before Label"
+msgstr ""
+
+#: inc/customizer/theme-options/header/button-one.php:131
+msgid "Show Icon Only"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:62
+msgid "Show Icons"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:67 inc/widgets/class-social-menu.php:39
+msgid "Show Label"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/pinned-posts.php:180
+msgid "Show Pinned Posts Overlay"
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:64
+msgid "Show Post Count"
+msgstr ""
+
+#: inc/customizer/theme-options/single/author-posts.php:364
+#: inc/customizer/theme-options/single/related-posts.php:364
+msgid "Show Post Description"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:346
+#: inc/customizer/theme-options/front-page/pinned-posts.php:461
+#: inc/customizer/theme-options/front-page/trending-posts.php:494
+#: inc/customizer/theme-options/single/author-posts.php:531
+#: inc/customizer/theme-options/single/related-posts.php:531
+msgid "Show Post Format Icon"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:92 inc/widgets/class-list-posts.php:98
+#: inc/widgets/class-popular-posts.php:92
+#: inc/widgets/class-post-ids-special-grid.php:132
+#: inc/widgets/class-posts-carousel.php:93
+#: inc/widgets/class-posts-slider.php:93
+#: inc/widgets/class-single-column-posts.php:160
+#: inc/widgets/class-tab-posts.php:280
+#: inc/customizer/theme-options/archive/archive.php:122
+#: inc/customizer/theme-options/front-page/banner.php:682
+#: inc/customizer/theme-options/front-page/pinned-posts.php:377
+#: inc/customizer/theme-options/front-page/trending-posts.php:364
+#: inc/customizer/theme-options/single/author-posts.php:296
+#: inc/customizer/theme-options/single/related-posts.php:296
+#: inc/customizer/theme-options/single/single.php:111
+msgid "Show Post Meta Icon"
+msgstr ""
+
+#: inc/post-meta/init.php:278
+msgid "Show Post Meta Icons"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:92
+msgid "Show Post Metas on Express Post Only"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:427
+#: inc/customizer/theme-options/front-page/trending-posts.php:452
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/customizer/theme-options/general/preloader.php:23
+msgid "Show Preloader"
+msgstr ""
+
+#: inc/customizer/theme-options/general/progressbar.php:23
+msgid "Show Progressbar"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:131 inc/widgets/class-list-posts.php:220
+#: inc/widgets/class-posts-carousel.php:132
+#: inc/widgets/class-posts-slider.php:132
+#: inc/widgets/class-single-column-posts.php:94
+#: inc/customizer/theme-options/archive/archive.php:425
+#: inc/customizer/theme-options/single/author-posts.php:410
+#: inc/customizer/theme-options/single/related-posts.php:410
+msgid "Show Read More"
+msgstr ""
+
+#: inc/customizer/theme-options/single/related-posts.php:171
+msgid "Show Related Post Category"
+msgstr ""
+
+#: inc/post-meta/init.php:348
+#: inc/customizer/theme-options/single/related-posts.php:25
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/scroll-to-top.php:24
+msgid "Show Scroll to Top"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:225
+msgid "Show Social Nav Menu in Footer"
+msgstr ""
+
+#: inc/template-tags.php:644
+msgid "Show sub menu"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:32 inc/widgets/class-tab-posts.php:94
+#: inc/widgets/class-tab-posts.php:156 inc/widgets/class-tab-posts.php:218
+msgid "Show Tab"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:287
+#: inc/customizer/theme-options/single/single.php:296
+msgid "Show Tag Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:469
+msgid "Show Ticker Post Category"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/homepage-settings.php:16
+msgid "Show title above homepage posts"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:239
+msgid "Show Trending Post Category"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:10
+#: inc/customizer/theme-options/sidebar/init.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: inc/post-meta/init.php:145 inc/post-meta/init.php:202
+msgid "Sidebar Border"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:62
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:105
+#: inc/customizer/theme-options/sidebar/general.php:83
+msgid "Sidebar Widget Style"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:143
+#: inc/customizer/theme-options/sidebar/general.php:121
+msgid "Sidebar Widget Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:124
+#: inc/customizer/theme-options/sidebar/general.php:102
+msgid "Sidebar Widget Title Style"
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:272
+msgid "Single Category Position"
+msgstr ""
+
+#: inc/helpers.php:889
+msgid "Single Column"
+msgstr ""
+
+#: inc/helpers.php:945
+msgid "Single Column List"
+msgstr ""
+
+#: inc/helpers.php:949
+msgid "Single Column List Alternate"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:50
+#: inc/customizer/theme-options/upsellbkp.php:346
+msgid "Single Column Posts"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:67
+msgid "Single Options"
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:23
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:454
+msgid "Single post layout"
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:82
+msgid "Single Post Meta"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:459
+msgid "Single post navigation style"
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:5
+msgid "Single Post Options"
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:42
+msgid "Single Post Style"
+msgstr ""
+
+#: inc/customizer/theme-options/single/init.php:6
+msgid "Single Posts"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:364
+msgid "Single posts social share position"
+msgstr ""
+
+#: inc/customizer/theme-options/header/site-identity.php:54
+msgid "Site Tagline Style"
+msgstr ""
+
+#: inc/customizer/theme-options/header/site-identity.php:100
+msgid "Site Tagline Text Size"
+msgstr ""
+
+#: inc/customizer/theme-options/header/site-identity.php:78
+msgid "Site Title Text Size"
+msgstr ""
+
+#: header.php:41
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/banner.php:152
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/theme-options/general/elements-design.php:21
+msgid "Small Border Radius"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:48
+msgid "Small Col + Large Col"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:122
+msgid "Small Column Widget Style"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:160
+msgid "Small Column Widgets Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/home-columns.php:141
+msgid "Small Column Widgets Title Style"
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:58
+msgid "Small Height"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:270 inc/widgets/class-social-menu.php:24
+#: inc/customizer/theme-options/footer/sub-footer.php:244
+msgid "Social Links Color"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:267
+msgid "Social Links Display Style"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:281
+msgid "Social Links Style"
+msgstr ""
+
+#: functions.php:65
+msgid "Social Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:52
+#: inc/customizer/theme-options/upsellbkp.php:348
+msgid "Social Menu ( 4+ Styles )"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:23
+msgid "Social Menu Brand Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:133
+msgid "Social Menu Display Style"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:91
+msgid "Social Menu Icons Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:47
+msgid "Social Menu Icons Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:113
+msgid "Social Menu Icons Hover Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:69
+msgid "Social Menu Icons Hover Color"
+msgstr ""
+
+#: inc/widgets/class-social-menu.php:121
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu "
+"on Menu Settings."
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:193
+msgid "Social Menu Label Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/global-options.php:172
+msgid "Social Menu Label Text"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:54
+msgid "Social Share"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:436
+msgid "Social share options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/footer.php:93
+msgid ""
+"Some footer widgetareas will not be used based on the footer column layout "
+"chosen. Also make sure to insert at least one widget on the respective "
+"widgetarea for it to display."
+msgstr ""
+
+#: inc/customizer/theme-options/general/init.php:7
+msgid "Some general options for the site."
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:93 inc/widgets/class-list-posts.php:99
+#: inc/widgets/class-popular-posts.php:93
+#: inc/widgets/class-post-ids-special-grid.php:133
+#: inc/widgets/class-posts-carousel.php:94
+#: inc/widgets/class-posts-slider.php:94
+#: inc/widgets/class-single-column-posts.php:161
+#: inc/widgets/class-tab-posts.php:281
+#: inc/customizer/theme-options/archive/archive.php:123
+#: inc/customizer/theme-options/front-page/banner.php:683
+#: inc/customizer/theme-options/front-page/pinned-posts.php:378
+#: inc/customizer/theme-options/front-page/trending-posts.php:365
+#: inc/customizer/theme-options/single/author-posts.php:297
+#: inc/customizer/theme-options/single/related-posts.php:297
+#: inc/customizer/theme-options/single/single.php:112
+msgid "Some Icons may show up regardless to provide better info."
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:47
+msgid ""
+"Some options related to header may not show in the front-end based on header "
+"style chosen."
+msgstr ""
+
+#: inc/customizer/theme-options/performance/init.php:7
+msgid "Some performance options for the site."
+msgstr ""
+
+#: 404.php:19
+msgid "Something's wrong..."
+msgstr ""
+
+#: search.php:59 template-parts/content/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: 404.php:23
+msgid "Sorry, we can't find the page you are looking for. Maybe try search?"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:247
+msgid "Sorry, you do not have permission to perform this action."
+msgstr ""
+
+#: inc/widgets/class-address-info.php:55
+msgid "Stack"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:567
+#: inc/customizer/theme-options/single/author-box.php:171
+msgid "Stack on Responsive"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:64
+msgid "Stack Top Bar Columns on Responsive"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:34
+msgid "Standard support"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:190 inc/dashboard/class-dashboard.php:390
+#: inc/dashboard/sections/getting-started.php:40
+#: inc/dashboard/sections/starter-templates.php:18
+msgid "Starter Templates"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:273
+msgid "Sticky header"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:278
+msgid "Sticky header on scroll up"
+msgstr ""
+
+#: inc/customizer/theme-options/header/sticky-menu.php:7
+msgid "Sticky Menu Options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:294
+msgid "Sticky sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar/front-page.php:86
+#: inc/customizer/theme-options/sidebar/general.php:64
+msgid "Sticky?"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:32
+msgid "Stretch"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:53
+#: inc/widgets/class-mailchimp-form.php:45
+#: inc/widgets/class-popular-posts.php:159 inc/widgets/class-social-menu.php:33
+msgid "Style"
+msgstr ""
+
+#: inc/helpers.php:843 inc/helpers.php:977 inc/helpers.php:1041
+#: inc/helpers.php:1064 inc/helpers.php:1087 inc/helpers.php:1220
+#: inc/helpers.php:1265 inc/widgets/class-author-info.php:261
+#: inc/widgets/class-list-posts.php:194
+#: inc/widgets/class-post-ids-special-grid.php:160
+#: inc/widgets/class-posts-carousel.php:189
+#: inc/widgets/class-posts-slider.php:189
+#: inc/widgets/class-posts-slider.php:242 inc/widgets/class-tab-posts.php:329
+#: inc/customizer/theme-options/front-page/trending-posts.php:601
+#: inc/customizer/theme-options/header/site-identity.php:58
+#: inc/customizer/theme-options/single/author-box.php:150
+msgid "Style 1"
+msgstr ""
+
+#: inc/helpers.php:1274
+msgid "Style 10"
+msgstr ""
+
+#: inc/helpers.php:844 inc/helpers.php:978 inc/helpers.php:1042
+#: inc/helpers.php:1065 inc/helpers.php:1088 inc/helpers.php:1221
+#: inc/helpers.php:1266 inc/widgets/class-author-info.php:262
+#: inc/widgets/class-list-posts.php:195
+#: inc/widgets/class-post-ids-special-grid.php:161
+#: inc/widgets/class-posts-carousel.php:190
+#: inc/widgets/class-posts-slider.php:190
+#: inc/widgets/class-posts-slider.php:243 inc/widgets/class-tab-posts.php:330
+#: inc/customizer/theme-options/front-page/trending-posts.php:602
+#: inc/customizer/theme-options/header/site-identity.php:59
+#: inc/customizer/theme-options/single/author-box.php:151
+msgid "Style 2"
+msgstr ""
+
+#: inc/helpers.php:979 inc/helpers.php:1043 inc/helpers.php:1066
+#: inc/helpers.php:1089 inc/helpers.php:1222 inc/helpers.php:1267
+#: inc/widgets/class-author-info.php:263
+#: inc/widgets/class-post-ids-special-grid.php:162
+#: inc/widgets/class-tab-posts.php:331
+#: inc/customizer/theme-options/header/site-identity.php:60
+msgid "Style 3"
+msgstr ""
+
+#: inc/helpers.php:1044 inc/helpers.php:1067 inc/helpers.php:1223
+#: inc/helpers.php:1268 inc/widgets/class-post-ids-special-grid.php:163
+#: inc/widgets/class-tab-posts.php:332
+#: inc/customizer/theme-options/header/site-identity.php:61
+msgid "Style 4"
+msgstr ""
+
+#: inc/helpers.php:1045 inc/helpers.php:1068 inc/helpers.php:1269
+#: inc/widgets/class-post-ids-special-grid.php:164
+msgid "Style 5"
+msgstr ""
+
+#: inc/helpers.php:1270 inc/widgets/class-post-ids-special-grid.php:165
+msgid "Style 6"
+msgstr ""
+
+#: inc/helpers.php:1271 inc/widgets/class-post-ids-special-grid.php:166
+msgid "Style 7"
+msgstr ""
+
+#: inc/helpers.php:1272
+msgid "Style 8"
+msgstr ""
+
+#: inc/helpers.php:1273
+msgid "Style 9"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:529
+msgid "Sub footer"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:534
+msgid "Sub footer light/dark theme"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:544
+msgid "Sub footer logo"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:311
+msgid "Sub footer margin & padding controls"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:539
+msgid "Sub footer multiple layout"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:8
+msgid "Sub Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:24
+msgid "Sub Footer Theme"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/sub-menu.php:7
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:427
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:490
+msgid "Sub Menu Description Color"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/sub-menu.php:23
+msgid "Sub Menu Font"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:98
+msgid "Sub menu font option"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/sub-menu.php:42
+msgid "Sub Menu Font Weight"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:103
+msgid "Sub menu responisve font sizes"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:406
+msgid "Sub Menu Style"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:448
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:469
+msgid "Sub Menu Text Hover Color"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:143
+msgid "Sub-menu color option"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:100
+msgid "Submit a Review"
+msgstr ""
+
+#: inc/helpers.php:41 inc/helpers.php:1885
+msgid "Subscribe"
+msgstr ""
+
+#: inc/widgets/class-heading.php:40
+msgid "Subtitle"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:338
+msgid "Tab Display Style"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:327
+msgid "Tab Head Style"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:613
+msgid "Tab Navigation"
+msgstr ""
+
+#: inc/customizer/theme-options/upsell.php:51
+#: inc/customizer/theme-options/upsellbkp.php:347
+msgid "Tab Posts ( 3+ Styles )"
+msgstr ""
+
+#: inc/customizer/theme-options/single/single.php:315
+msgid "Tag Style"
+msgstr ""
+
+#: inc/template-tags.php:473 inc/post-meta/init.php:76
+#: inc/customizer/theme-options/archive/archive.php:102
+#: inc/customizer/theme-options/single/single.php:91
+msgid "Tags"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:409
+msgid "Tags different pagination"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:414
+msgid "Tags post metas option"
+msgstr ""
+
+#: inc/template-tags.php:471
+msgid "Tags:"
+msgstr ""
+
+#: inc/dashboard/sections/shortcodes.php:6
+msgid ""
+"Take your website’s design flexibility to the next level with our premium "
+"shortcode modules"
+msgstr ""
+
+#: inc/helpers.php:1000
+msgid "Text + Image"
+msgstr ""
+
+#: inc/customizer/theme-options/general/buttons.php:23
+#: inc/customizer/theme-options/header/button-one.php:214
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/general/buttons.php:44
+#: inc/customizer/theme-options/header/button-one.php:234
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/helpers.php:999
+msgid "Text Only"
+msgstr ""
+
+#. %s: Theme Name.
+#: inc/dashboard/class-dashboard.php:369 inc/dashboard/class-dashboard.php:437
+#, php-format
+msgid "Thank you for using %s"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:407 inc/dashboard/class-dashboard.php:528
+#: inc/dashboard/class-dashboard.php:529 inc/dashboard/class-dashboard.php:552
+msgid "Theme Dashboard"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:38
+msgid "Theme Details"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/excerpt.php:23
+msgid ""
+"This can be used to increase the maximum number of words allowed in the "
+"excerpt on the whole site. To change the excerpt value of a particular "
+"section, use the excerpt settings provided there."
+msgstr ""
+
+#: inc/widgets/class-social-menu.php:49
+msgid "Three"
+msgstr ""
+
+#: inc/helpers.php:869
+msgid "Three Columns"
+msgstr ""
+
+#: inc/helpers.php:881
+msgid "Three Columns Big Middle"
+msgstr ""
+
+#: inc/category-meta/init.php:14 inc/category-meta/init.php:49
+#: inc/category-meta/init.php:144
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:138
+msgid "Ticker Label Background"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:110
+#: inc/customizer/theme-options/front-page/ticker-posts.php:192
+msgid "Ticker Label Text"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:166
+msgid "Ticker Loader/Icon Color"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:514
+msgid "Ticker Post Category Style"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:338
+msgid "Ticker Post Meta"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:6
+msgid "Ticker Post Options"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:488
+msgid "Ticker Posts Category Color Display"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:42
+msgid "Ticker Theme"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:101 inc/widgets/class-list-posts.php:107
+#: inc/widgets/class-popular-posts.php:101
+#: inc/widgets/class-post-ids-special-grid.php:141
+#: inc/widgets/class-posts-carousel.php:102
+#: inc/widgets/class-posts-slider.php:102
+#: inc/widgets/class-single-column-posts.php:169
+#: inc/widgets/class-tab-posts.php:289
+#: inc/customizer/theme-options/archive/archive.php:146
+#: inc/customizer/theme-options/front-page/banner.php:707
+#: inc/customizer/theme-options/front-page/pinned-posts.php:401
+#: inc/customizer/theme-options/front-page/ticker-posts.php:365
+#: inc/customizer/theme-options/front-page/trending-posts.php:389
+#: inc/customizer/theme-options/single/author-posts.php:321
+#: inc/customizer/theme-options/single/related-posts.php:321
+#: inc/customizer/theme-options/single/single.php:155
+msgid "Times Ago"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:21 inc/widgets/class-grid-posts.php:20
+#: inc/widgets/class-grid-posts.php:62 inc/widgets/class-heading.php:20
+#: inc/widgets/class-list-posts.php:20 inc/widgets/class-list-posts.php:62
+#: inc/widgets/class-popular-posts.php:19
+#: inc/widgets/class-popular-posts.php:61
+#: inc/widgets/class-post-categories-grid.php:36
+#: inc/widgets/class-post-ids-special-grid.php:22
+#: inc/widgets/class-post-ids-special-grid.php:73
+#: inc/widgets/class-posts-carousel.php:21
+#: inc/widgets/class-posts-carousel.php:63
+#: inc/widgets/class-posts-slider.php:21 inc/widgets/class-posts-slider.php:63
+#: inc/widgets/class-single-column-posts.php:20
+#: inc/widgets/class-single-column-posts.php:62
+#: inc/widgets/class-social-menu.php:20 inc/widgets/class-tab-posts.php:37
+#: inc/widgets/class-tab-posts.php:74 inc/widgets/class-tab-posts.php:99
+#: inc/widgets/class-tab-posts.php:136 inc/widgets/class-tab-posts.php:161
+#: inc/widgets/class-tab-posts.php:198 inc/widgets/class-tab-posts.php:223
+#: inc/customizer/theme-options/front-page/banner.php:284
+#: inc/customizer/theme-options/front-page/homepage-settings.php:36
+#: inc/customizer/theme-options/front-page/ticker-posts.php:294
+#: inc/customizer/theme-options/front-page/trending-posts.php:195
+#: inc/customizer/theme-options/single/author-posts.php:127
+#: inc/customizer/theme-options/single/related-posts.php:127
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/class-heading.php:24
+msgid "Title HTML Tag"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:196
+msgid "Title:"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:406
+msgid ""
+"To fully take advantage of the best our theme can offer, please make sure to "
+"visit the theme dashboard page."
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:152
+msgid "Today's Date Format"
+msgstr ""
+
+#: inc/customizer/theme-options/general/progressbar.php:44
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:367
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:389
+msgid "Top Bar Date Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:411
+msgid "Top Bar Nav Menu Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:433
+msgid "Top Bar Nav Menu Hover Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:499
+msgid "Top Bar Sub Menu Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:455
+msgid "Top Bar Sub Menu Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:477
+msgid "Top Bar Sub Menu Hover Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:342
+msgid "Top Bar Theme"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:167
+msgid "Top Express + Bottom 2 Columns List"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:165
+msgid "Top Express + Bottom List"
+msgstr ""
+
+#: inc/widgets/class-list-posts.php:166
+msgid "Top Express + Bottom List Variation"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:341
+msgid "Top Image + Bottom Content"
+msgstr ""
+
+#: inc/widgets/class-tab-posts.php:342
+msgid "Top Image + Bottom Content Variation"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:228 inc/widgets/class-popular-posts.php:150
+#: inc/customizer/theme-options/front-page/trending-posts.php:625
+msgid "Top Left"
+msgstr ""
+
+#: functions.php:63
+msgid "Top Menu"
+msgstr ""
+
+#: inc/widgets/class-grid-posts.php:229 inc/widgets/class-popular-posts.php:151
+#: inc/customizer/theme-options/front-page/trending-posts.php:626
+msgid "Top Right"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:258
+msgid "Topbar color option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:253
+msgid "Topbar option"
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:5
+msgid "Topbar Options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:48
+msgid "Translation ready"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:284
+msgid "Trending Post Category Style"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:124
+msgid "Trending Post Column"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:620
+msgid "Trending Post Counter"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:597
+msgid "Trending Post Display Style"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:337
+msgid "Trending Post Meta"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:6
+msgid "Trending Post Options"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:104
+msgid "Trending Post Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:84
+msgid "Trending Post Title Style"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:258
+msgid "Trending Posts Category Color Display"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:64
+msgid "Trending Posts Title"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/trending-posts.php:44
+msgid "Trending Section Background"
+msgstr ""
+
+#: inc/widgets/class-social-menu.php:48
+msgid "Two"
+msgstr ""
+
+#: inc/helpers.php:873
+msgid "Two Columns"
+msgstr ""
+
+#: inc/helpers.php:877
+msgid "Two Columns Big Left"
+msgstr ""
+
+#: inc/helpers.php:885
+msgid "Two Columns Big Right"
+msgstr ""
+
+#: inc/customizer/theme-options/typography/init.php:6
+msgid "Typography"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:83
+msgid "Typography color option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:78
+msgid "Typography font option"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:58
+msgid "Typography Options"
+msgstr ""
+
+#. Author of the theme
+msgid "Unfoldwp"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:206
+msgid "Unfoldwp Import Companion"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:42
+msgid "Unique color for the theme"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:18
+#: inc/dashboard/sections/getting-started.php:127
+msgid ""
+"Unlock all the possibilties and true potential with premium version of this "
+"theme"
+msgstr ""
+
+#: inc/post-meta/init.php:613 inc/customizer/theme-options/upsell.php:7
+#: inc/customizer/theme-options/upsellbkp.php:7
+msgid "Unlock More Features"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:109
+msgid "Unlock more features with premium version of this theme"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:17
+#: inc/dashboard/sections/shortcodes.php:5
+msgid "Unlock More with Magty Pro"
+msgstr ""
+
+#: inc/customizer/controls/features-list.php:57
+#: inc/customizer/controls/section-features-list.php:42
+#: inc/customizer/controls/upsell.php:50
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/post-meta/init.php:615 inc/dashboard/sections/free-vs-pro.php:19
+#: inc/dashboard/sections/getting-started.php:128
+#: inc/dashboard/sections/shortcodes.php:7
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:56
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/category-meta/init.php:20 inc/category-meta/init.php:54
+#: inc/widgets/class-author-info.php:241
+#: inc/widgets/widget-base/abstract-widget-base.php:487
+msgid "Upload/Add image"
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:245
+#: inc/customizer/theme-options/archive/archive.php:326
+#: inc/customizer/theme-options/single/single.php:254
+#: inc/customizer/theme-options/single/single.php:335
+msgid "Use 0 for no limit."
+msgstr ""
+
+#: inc/widgets/class-author-info.php:274 inc/widgets/class-social-menu.php:27
+#: inc/customizer/theme-options/footer/sub-footer.php:249
+#: inc/customizer/theme-options/header/global-options.php:28
+msgid "Use Brand Color"
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:79
+msgid "Use category color for the overlay"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:240
+#: inc/widgets/widget-base/abstract-widget-base.php:486
+msgid "Use Image"
+msgstr ""
+
+#: inc/category-meta/init.php:109
+msgid "Use image"
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:69
+msgid "Use image with 16:9 aspect ratio for best results"
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:110
+msgid "Use images with 16:9 aspect ratio for best results"
+msgstr ""
+
+#: inc/widgets/class-author-info.php:273 inc/widgets/class-social-menu.php:26
+#: inc/customizer/theme-options/footer/sub-footer.php:248
+#: inc/customizer/theme-options/header/global-options.php:27
+msgid "Use Theme Color"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:131
+msgid "Use {{ date }} to get the current date."
+msgstr ""
+
+#: inc/woocommerce.php:259
+msgid "View Cart"
+msgstr ""
+
+#: inc/widgets/class-ads-code.php:38
+msgid "Visibility Settings"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:52
+msgid "Visit Customizer"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:34
+msgid ""
+"We want to make sure you have the best experience using the theme and that "
+"is why we gathered here all the necessary information for you. Also check "
+"out premium version of the theme if you need more features."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:99
+msgid ""
+"We welcome your feedback and would be thankful for the review you provide."
+msgstr ""
+
+#: inc/widgets/class-address-info.php:37
+msgid "Website"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:185
+msgid "Website:"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:282
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:822
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#. %s: Theme Name.
+#: inc/dashboard/sections/getting-started.php:26
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:362
+msgid "Welcome, "
+msgstr ""
+
+#: inc/widgets/class-mailchimp-form.php:61
+msgid "Wide Submit Button"
+msgstr ""
+
+#: inc/widgets/class-address-info.php:49
+#: inc/widgets/class-call-to-action.php:64 inc/widgets/class-grid-posts.php:182
+#: inc/widgets/class-list-posts.php:155 inc/widgets/class-mailchimp-form.php:41
+#: inc/widgets/class-popular-posts.php:143
+#: inc/widgets/class-post-ids-special-grid.php:154
+#: inc/widgets/class-posts-carousel.php:183
+#: inc/widgets/class-posts-slider.php:183
+#: inc/widgets/class-single-column-posts.php:182
+msgid "Widget Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/above-footer.php:43
+#: inc/customizer/theme-options/widgetareas/above-home.php:43
+#: inc/customizer/theme-options/widgetareas/before-home-columns.php:43
+#: inc/customizer/theme-options/widgetareas/below-footer.php:43
+#: inc/customizer/theme-options/widgetareas/below-header.php:43
+#: inc/customizer/theme-options/widgetareas/below-home.php:43
+#: inc/customizer/theme-options/widgetareas/home-after-posts.php:22
+#: inc/customizer/theme-options/widgetareas/home-before-posts.php:22
+msgid "Widget Style"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:21
+#: inc/widgets/class-mailchimp-form.php:20
+msgid "Widget Title"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:429
+#: inc/dashboard/sections/getting-started.php:72
+#: inc/customizer/theme-options/widgetareas/init.php:6
+msgid "Widgetareas"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:444
+msgid "Widgetareas background image options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:439
+msgid "Widgetareas dimension options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:449
+msgid "Widgetareas dividers"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:456
+msgid "Widgetareas margin & padding"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:434
+msgid "Widgetareas visibility options"
+msgstr ""
+
+#: inc/customizer/theme-options/upsellbkp.php:457
+msgid "Widgetareas visibilty options"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:145
+#, php-format
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:105
+msgid "Widgets added to this region will appear above the footer."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:53
+msgid ""
+"Widgets added to this region will appear above the homepage columns content."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:71
+msgid ""
+"Widgets added to this region will appear above the homepage content. "
+"Basically useful if you want to have sidebar on homepage but want some "
+"content on top without the sidebar too."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:41
+msgid ""
+"Widgets added to this region will appear after menu in the offcanvas sidebar."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:157
+msgid ""
+"Widgets added to this region will appear after the footer and before sub-"
+"footer."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:35
+msgid ""
+"Widgets added to this region will appear before menu in the offcanvas "
+"sidebar."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:99
+msgid ""
+"Widgets added to this region will appear below the homepage content. "
+"Basically useful if you want to have sidebar on homepage but want some "
+"content on bottom without the sidebar too."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:47
+msgid ""
+"Widgets added to this region will appear beneath the header and above the "
+"main content."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:27
+msgid ""
+"Widgets added to this region will appear on detail page of a woocommerce "
+"product."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:93
+msgid ""
+"Widgets added to this region will appear on the homepage after posts listing."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:77
+msgid ""
+"Widgets added to this region will appear on the homepage before posts "
+"listing."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:59 inc/widgets/widget-sidebars.php:65
+msgid "Widgets added to this region will appear on the homepage column."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:86
+msgid "Widgets added to this region will appear on the homepage sidebar."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:21
+msgid ""
+"Widgets added to this region will appear on the shop or category page of "
+"woocommerce."
+msgstr ""
+
+#: inc/customizer/theme-options/performance/widgets-css-optimization.php:5
+msgid "Widgets CSS Optimization"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/above-footer-nc.php:62
+#: inc/customizer/theme-options/widgetareas/above-footer.php:81
+#: inc/customizer/theme-options/widgetareas/above-home.php:81
+#: inc/customizer/theme-options/widgetareas/before-home-columns.php:81
+#: inc/customizer/theme-options/widgetareas/below-footer-nc.php:62
+#: inc/customizer/theme-options/widgetareas/below-footer.php:81
+#: inc/customizer/theme-options/widgetareas/below-header.php:81
+#: inc/customizer/theme-options/widgetareas/below-home.php:81
+#: inc/customizer/theme-options/widgetareas/home-after-posts.php:60
+#: inc/customizer/theme-options/widgetareas/home-before-posts.php:60
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:127
+msgid "Widgets Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/widgetareas/above-footer-nc.php:43
+#: inc/customizer/theme-options/widgetareas/above-footer.php:62
+#: inc/customizer/theme-options/widgetareas/above-home.php:62
+#: inc/customizer/theme-options/widgetareas/before-home-columns.php:62
+#: inc/customizer/theme-options/widgetareas/below-footer-nc.php:43
+#: inc/customizer/theme-options/widgetareas/below-footer.php:62
+#: inc/customizer/theme-options/widgetareas/below-header.php:62
+#: inc/customizer/theme-options/widgetareas/below-home.php:62
+#: inc/customizer/theme-options/widgetareas/home-after-posts.php:41
+#: inc/customizer/theme-options/widgetareas/home-before-posts.php:41
+#: inc/customizer/theme-options/widgetareas/offcanvas.php:108
+msgid "Widgets Title Style"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:424
+msgid "Widgets title style & align options"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:111
+#: inc/widgets/class-mailchimp-form.php:92
+msgid "Will be overridden if used background image."
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:347
+msgid "Will not display on certain archive styles."
+msgstr ""
+
+#: inc/customizer/theme-options/archive/archive.php:387
+#: inc/customizer/theme-options/archive/archive.php:426
+msgid "Will not display on certain post formats and archive styles."
+msgstr ""
+
+#: inc/widgets/class-social-menu.php:45
+msgid ""
+"Will only work when label is enabled from above and there is enough space to "
+"display the columns."
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:120
+#: inc/widgets/class-mailchimp-form.php:101
+msgid "Will override the background color if you set an image."
+msgstr ""
+
+#: inc/widgets/class-post-categories-grid.php:80
+msgid "Will override the overlay color if the category has its own color"
+msgstr ""
+
+#: inc/customizer/theme-options/front-page/ticker-posts.php:224
+msgid "With Icon"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:65
+#: inc/dashboard/sections/free-vs-pro.php:240
+#: inc/dashboard/sections/free-vs-pro.php:551
+msgid "With more options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:356
+msgid "With social links option"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:25
+msgid "WooCommerce Product Detail Page Sidebar"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:63
+msgid "WooCommerce ready"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:19
+msgid "WooCommerce Shop/Category page Sidebar"
+msgstr ""
+
+#: inc/widgets/class-call-to-action.php:96
+#: inc/widgets/class-mailchimp-form.php:77
+msgid "Works when there is either a background color or image."
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:228
+msgid "WPForms Lite"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:792 lib/breadcrumbs/breadcrumbs.php:821
+#: lib/breadcrumbs/breadcrumbs.php:848 lib/breadcrumbs/breadcrumbs.php:875
+#: lib/breadcrumbs/breadcrumbs.php:1215
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/post-meta/init.php:149 inc/post-meta/init.php:206
+#: inc/post-meta/init.php:248 inc/post-meta/init.php:282
+#: inc/post-meta/init.php:328 inc/post-meta/init.php:338
+#: inc/post-meta/init.php:352
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:205
+#, php-format
+msgid "You can add/edit footer nav menu from <a href=\"%s\">here</a>."
+msgstr ""
+
+#: inc/customizer/theme-options/footer/sub-footer.php:226
+#: inc/customizer/theme-options/header/primary-menu.php:138
+#: inc/customizer/theme-options/header/top-bar.php:192
+#, php-format
+msgid "You can add/edit social nav menu from <a href=\"%s\">here</a>."
+msgstr ""
+
+#: inc/customizer/theme-options/header/top-bar.php:214
+#, php-format
+msgid "You can add/edit top nav menu from <a href=\"%s\">here</a>."
+msgstr ""
+
+#: inc/customizer/theme-options/header/header.php:133
+#: inc/customizer/theme-options/header/primary-menu.php:198
+#: inc/customizer/theme-options/header/top-bar.php:277
+#, php-format
+msgid "You can edit button details from <a href=\"%s\">here</a>."
+msgstr ""
+
+#: inc/customizer/theme-options/header/primary-menu.php:47
+#, php-format
+msgid "You can find more offcanvas settings on <a href=\"%s\">here</a>."
+msgstr ""
+
+#: inc/helpers.php:354 template-parts/single/related-posts.php:5
+msgid "You May Also Like"
+msgstr ""
+
+#: search.php:23
+msgid "You searched for"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:80
+msgid ""
+"You'll find all the information you need to get started with the theme in "
+"the documentation. If you did not find the solution, you can always contact "
+"us."
+msgstr ""
+
+#: classes/class-magty-walker-comment.php:76
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:456
+msgid "⏰"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:455
+msgid "👍"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:454
+msgid "😎"
+msgstr ""
+
+#: inc/dashboard/class-dashboard.php:361
+msgid "🤝🏻"
+msgstr ""

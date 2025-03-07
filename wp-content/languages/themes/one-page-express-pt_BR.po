@@ -1,0 +1,1596 @@
+# Translation of Themes - One Page Express in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - One Page Express package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-23 23:50:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - One Page Express\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "One Page Express"
+msgstr "One Page Express"
+
+#: customizer/add-sections-preview.php:28
+#: customizer/customizer-controls.php:596
+msgid "Add Section"
+msgstr "Adicionar seção"
+
+#: customizer/customizer-controls.php:591
+msgid "Manage page sections"
+msgstr "Gerenciar seções da página"
+
+#: customizer/customizer-controls.php:593
+msgid "No section added"
+msgstr "Nenhuma seção adicionada"
+
+#: inc/functions.php:103
+msgid "Full HD"
+msgstr "Full HD"
+
+#: inc/functions.php:2866
+msgid "Customize all theme colors in PRO. @BTN@"
+msgstr "Personalize todas as cores do tema no PRO. @BTN@"
+
+#: customizer/customizer-controls.php:206
+msgid "Available in PRO"
+msgstr "Disponível na versão PRO"
+
+#: customizer/customizer-controls.php:435
+msgid "Check all PRO features"
+msgstr "Verifique todas as vantagens da versão PRO"
+
+#: customizer/customizer-controls.php:490
+msgid "Upgrade to PRO"
+msgstr "Atualize para a versão PRO"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:153
+msgid "Mobile Font Size"
+msgstr "Tamanho de fonte para celular"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:215
+msgid "Add Web Font"
+msgstr "Adicionar fonte da web"
+
+#: inc/functions.php:377
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/functions.php:384
+msgid "Typography options are only available in PRO. @BTN@"
+msgstr "As opções de tipografia estão disponíveis somente na versão PRO. @BTN@"
+
+#: inc/functions.php:519
+msgid "Footer text and color options available in PRO. @BTN@"
+msgstr "Cores e texto de rodapé estão disponíveis somente na versão PRO. @BTN@"
+
+#: inc/functions.php:810
+msgid "Parallax header background image available in PRO. @BTN@"
+msgstr "Imagem de fundo do cabeçalho Parallax disponível na versão  PRO @BTN@"
+
+#: inc/functions.php:924
+msgid "Navigation colors and typography options available in PRO. @BTN@"
+msgstr "Cores de navegação e opções de tipografia disponíveis na versão PRO. @BTN@"
+
+#: inc/functions.php:977
+msgid "You can use over 170 gradients in the PRO version. @BTN@"
+msgstr "Você pode usar mais de 170 gradientes na versão PRO. @BTN@"
+
+#: inc/functions.php:1495
+msgid "10 more beautiful header designs are available in the PRO version. @BTN@"
+msgstr "10 mais bonitos projetos de cabeçalho estão disponíveis na versão PRO. @BTN@"
+
+#: inc/functions.php:1600
+msgid "More content layouts available in PRO. @BTN@"
+msgstr "Mais layouts de conteúdo disponíveis na versão PRO. @BTN@"
+
+#: inc/functions.php:2037
+msgid "Title and buttons style options available in PRO. @BTN@"
+msgstr "Opções de estilos de botões e títulos estão disponíveis na versão PRO. @BTN@"
+
+#: inc/functions.php:340
+msgid "Footer Settings"
+msgstr "Opções do rodapé"
+
+#: customizer/customizer-controls.php:534
+msgid "Choose Icon"
+msgstr "Escolha o ícone"
+
+#: functions.php:30
+msgid "One Page Express theme activation failed!"
+msgstr "A ativação do tema One Page Express falhou!"
+
+#: functions.php:32
+msgid "You need to update your PHP version to use the <strong>One Page Express</strong>."
+msgstr "Você precisa atualizar sua versão do PHP para usar o <strong>One Page Express</strong>."
+
+#: functions.php:33
+msgid "Current php version is:"
+msgstr "A versão atual do PHP é:"
+
+#: functions.php:34
+msgid "and the minimum required version is "
+msgstr "e a versão mínima necessária é:"
+
+#: inc/functions.php:511
+msgid "Simple"
+msgstr "Simples"
+
+#: inc/functions.php:512
+msgid "Contact Boxes"
+msgstr "Caixas de contato"
+
+#: inc/functions.php:513
+msgid "Widgets Boxes"
+msgstr "Caixas de widgets"
+
+#: inc/functions.php:1483
+msgid "Apply Preset"
+msgstr "Aplicar predefinição"
+
+#: inc/functions.php:1520
+msgid "Alternate text logo words"
+msgstr "Alternar palavras do texto do logo"
+
+#: inc/functions.php:1590
+msgid "Text on center"
+msgstr "Texto no centro"
+
+#: inc/functions.php:1591
+msgid "Text on right"
+msgstr "Texto à direita"
+
+#: inc/functions.php:1592
+msgid "Text on left"
+msgstr "Texto à esquerda"
+
+#: inc/functions.php:1593
+msgid "Image on left, text on right"
+msgstr "Imagem à esquerda, texto à direita"
+
+#: inc/functions.php:1594
+msgid "Text on left, image on right"
+msgstr "Texto à esquerda, imagem à direita"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar plugins necessários"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Atualizando Plugin: %s"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Começando a instalar plugin"
+msgstr[1] "Comece instalando plugins"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Começando a instalar plugin"
+msgstr[1] "Comece instalando plugins"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Ativando plugin"
+msgstr[1] "Ativando plugins"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para a instalação dos plugins requeridos"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Voltar para o Painel"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação tomada. o plugin %1$s já está ativo."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin não ativado. É necessário uma versão mais recente do %s para este tema. Atualize o plugin."
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins foram ativados com sucesso. %1$s"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Dispensar notificação"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Há um ou mais plugins necessários ou recomendados para instalar, atualizar ou ativar."
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Entre em contato com o administrador do site para obter ajuda."
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin precisa ser atualizado para ser compatível com o seu tema."
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Atualização Necessária"
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "O pacote do plugin remoto não contém a pasta com o slug desejado e a renomeação não funcionou."
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Contate o provedor do plugin e peça a eles para empacotar seu plugin de acordo com as diretrizes do WordPress."
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "O pacote remoto de plugin consiste em mais de um arquivo, mas os arquivos não estão empacotados em uma pasta."
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requerido"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fonte externa"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empacotado"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não ativado"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Ativo"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Atualização necessária não disponivel"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requer atualização"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Tudo <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Instalado <span class=\"count\">(%s)</span>"
+msgstr[1] "Instalados <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualizações disponíveis <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Ativado <span class=\"count\">(%s)</span>"
+msgstr[1] "Ativados <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconhecido"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versão mínima requerida:"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Não há plugins para instalar, atualizar ou ativar."
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Origem"
+
+#: class-tgm-plugin-activation.php:2549 inc/functions.php:1152
+msgid "Type"
+msgstr "Tipo"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versão"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Atualização mensagem do autor do plugin:"
+
+#: class-tgm-plugin-activation.php:2717 inc/functions.php:71
+#: inc/functions.php:81
+msgid "Install"
+msgstr "Instalar"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Atualizar"
+
+#: class-tgm-plugin-activation.php:2726 inc/functions.php:68
+#: inc/functions.php:78
+msgid "Activate"
+msgstr "Ativar"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nenhum plugin selecionado para ser instalado. Nenhuma ação tomada."
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nenhum plugin selecionado para ser atualizado. Nenhuma ação tomada."
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Não há plugins disponíveis para serem instalados nesse momento."
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Não há plugins disponíveis para serem atualizados nesse momento."
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nenhum plugin selecionado para ser ativado. Nenhuma ação tomada."
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Não há plugins disponíveis para serem ativados nesse momento."
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Ativação do plugin falhou."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualizando plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro durante a instalação %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "A instalação do %1$s falhou."
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está iniciando. Este processo pode demorar um pouco em alguns servidores, seja paciente."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalhes"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está iniciando. Este processo pode demorar um pouco em alguns servidores, tenha paciência."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas instalações terminaram."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: customizer/customizer-controls.php:519
+msgid "Change Icon"
+msgstr "Trocar ícone"
+
+#: customizer/customizer-controls.php:533
+msgid "Select FontAwesome Icon"
+msgstr "Selecione o ícone FontAwesome"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr "Sem Repetição"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr "Repetir Tudo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr "Repetir Horizontalmente"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr "Repetir Verticalmente"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr "Herdado"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr "Repetição do fundo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr "Cobrir"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr "Conter"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr "Tamanho do fundo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr "Fixo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr "Rolar"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr "Fixação do fundo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr "Superior esquerdo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr "Centro esquerdo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr "Inferior esquerdo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr "Superior direito"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr "Centro direito"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr "Inferior direito"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr "Superior central"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr "Centro"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr "Inferior Central"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr "Posição do fundo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr "Opacidade de fundo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr "LIGADO"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr "DESLIGADO"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr "Todos"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr "Cirílico"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr "Cirílico estendido"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr "Grego"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr "Grego estendido"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr "Khmer"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr "Latim"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr "Latim estendido"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr "Vietinamita"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr "Hebraico"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr "Árabe"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr "Bengali"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr "Tamil"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr "Telugu"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr "Tailandês"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Mono-espaçado"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr "Fonte"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:154
+msgid "Font Weight"
+msgstr "Peso"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:155
+msgid "Line Height"
+msgstr "Altura da linha"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:156
+msgid "Font Style"
+msgstr "Estilo da fonte"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:157
+msgid "Letter Spacing"
+msgstr "Espaçamento de letras"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:158
+msgid "Top"
+msgstr "Topo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:159
+msgid "Bottom"
+msgstr "Base"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:160 inc/functions.php:1217
+#: inc/functions.php:1614
+msgid "Left"
+msgstr "Esquerda"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:161 inc/functions.php:1219
+#: inc/functions.php:1616
+msgid "Right"
+msgstr "Direita"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:162 inc/functions.php:1218
+#: inc/functions.php:1615
+msgid "Center"
+msgstr "Centro"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:163
+msgid "Justify"
+msgstr "Justificar"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:164
+msgid "Color"
+msgstr "Cor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:165
+msgid "Add Image"
+msgstr "Adicione imagem"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:166
+msgid "Change Image"
+msgstr "Mudar a imagem"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:167
+msgid "No Image Selected"
+msgstr "Nenhuma imagem selecionada"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:168
+msgid "Add File"
+msgstr "Adicionar arquivo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:169
+msgid "Change File"
+msgstr "Alterar arquivo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:170
+msgid "No File Selected"
+msgstr "Nenhum arquivo selecionado"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:171 inc/functions.php:1543
+msgid "Remove"
+msgstr "Remover"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:172
+msgid "Select a font-family"
+msgstr "Selecione uma família de fontes"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:173
+msgid "Variant"
+msgstr "Variantes"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:174
+msgid "Subset"
+msgstr "Subset"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:175
+msgid "Size"
+msgstr "Tamanho"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:176
+msgid "Height"
+msgstr "Altura"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:177
+msgid "Spacing"
+msgstr "Espaçamento"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:179
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200"
+msgstr "Light 200"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:181
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300"
+msgstr "Book 300"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:183
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:185
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:187
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:189
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:191
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:193
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:195
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:196
+msgid "Invalid Value"
+msgstr "Valor inválido"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:197
+msgid "Add new"
+msgstr "Adicionar nova"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:198
+msgid "row"
+msgstr "linha"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:199
+msgid "Limit: %s rows"
+msgstr "Limite: %s linhas"
+
+#: customizer/customizer-controls.php:587
+#: customizer/kirki/includes/class-kirki-l10n.php:200
+#: customizer/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr "Pressione Enter para abrir esta seção"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:201
+#: customizer/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr "Voltar"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:202
+msgid "%s Reset"
+msgstr "%s redefinido"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:203 inc/functions.php:1211
+#: inc/functions.php:1608
+msgid "Text Align"
+msgstr "Alinhamento de Texto"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:204
+msgid "Text Transform"
+msgstr "Transformação de Texto"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:205
+msgid "None"
+msgstr "Nenhum"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:206
+msgid "Capitalize"
+msgstr "Maiúscula"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:207
+msgid "Uppercase"
+msgstr "Maiúscula"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:208
+msgid "Lowercase"
+msgstr "Minúscula"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:209
+msgid "Initial"
+msgstr "Inicial"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:210
+msgid "Select a Page"
+msgstr "Selecione uma página"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:211
+msgid "Open Editor"
+msgstr "Abrir o editor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:212
+msgid "Close Editor"
+msgstr "Fechar o editor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:213
+msgid "Switch Editor"
+msgstr "Trocar de editor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:214
+msgid "Hex Value"
+msgstr "Valor hexadecimal"
+
+#: footer-content-lists.php:9 footer-content-lists.php:20
+#: footer-content-lists.php:31
+msgid "Go to widgets section to add a widget here."
+msgstr "Vá para a seção de widgets para adicionar um widgets aqui."
+
+#: inc/companion.php:75
+msgid "Please Install the One Page Express Companion Plugin to Enable All the Theme Features"
+msgstr "Instale o Page Express Companion Plugin para habilitar todas as funcionalidades do tema."
+
+#: customizer/start-with-frontpage.php:42
+msgid "Maybe later"
+msgstr "Talvez depois"
+
+#: inc/companion.php:80
+msgid "Activate now"
+msgstr "Ativar agora"
+
+#: inc/companion.php:83
+msgid "Install now"
+msgstr "Instalar agora"
+
+#: inc/functions.php:65
+msgid "One Page Express Companion"
+msgstr "One Page Express Companion"
+
+#: inc/functions.php:66
+msgid "The One Page Express Companion plugin adds drag and drop functionality and many other features to the One Page Express theme."
+msgstr "O plugin One Page Express Companion adiciona funcionalidade de arrastar e soltar e muitos outros recursos para o tema One Page Express."
+
+#: inc/functions.php:75
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/functions.php:76
+msgid "The Contact Form 7 plugin is recommended for the One Page Express contact section."
+msgstr "O plug-in Contact Form 7 é recomendado para a seção de contato One Page Express."
+
+#: inc/functions.php:88
+msgid "Activate One Page Express Companion"
+msgstr "Ativar One Page Express Companion"
+
+#: inc/functions.php:89
+msgid "This feature requires the One Page Express Companion plugin to be activated."
+msgstr "Esse recurso requer que o plugin One Page Express Companion seja ativado."
+
+#: inc/functions.php:90
+msgid "Install One Page Express Companion"
+msgstr "Instalar One Page Express Companion"
+
+#: inc/functions.php:91
+msgid "This feature requires the One Page Express Companion plugin to be installed."
+msgstr "Esse recurso requer que o plugin One Page Express Companion seja instalado."
+
+#: inc/functions.php:108
+msgid "One Page Express Info"
+msgstr "Informação do  One Page Express"
+
+#: inc/functions.php:310
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/functions.php:324 inc/functions.php:333
+msgid "Front Page content"
+msgstr "Conteúdo da Página Inicial"
+
+#: inc/functions.php:346
+msgid "Front Page Header Designs"
+msgstr "Design de cabeçalho da página inicial"
+
+#: inc/functions.php:351
+msgid "Front Page Header Background"
+msgstr "Fundo do cabeçalho da página inicial"
+
+#: inc/functions.php:356
+msgid "Front Page Header Content"
+msgstr "Conteúdo do cabeçalho da página inicial"
+
+#: inc/functions.php:361
+msgid "Inner Pages Header Background"
+msgstr "Fundo do cabeçalho das páginas internas"
+
+#: inc/functions.php:366
+msgid "Inner Pages Header Content"
+msgstr "Conteúdo do cabeçalho das páginas internas"
+
+#: inc/functions.php:461
+msgid "Icon 1"
+msgstr "Ícone 1"
+
+#: inc/functions.php:467
+msgid "Icon 2"
+msgstr "Ícone 2"
+
+#: inc/functions.php:473
+msgid "Icon 3"
+msgstr "Ícone 3"
+
+#: inc/functions.php:479
+msgid "Icon 4"
+msgstr "Ícone 4"
+
+#: inc/functions.php:486
+msgid "Icon 5"
+msgstr "Ícone 5"
+
+#: inc/functions.php:507
+msgid "Template"
+msgstr "Modelo"
+
+#: inc/functions.php:528
+msgid "Box 1"
+msgstr "Caixa 1"
+
+#: inc/functions.php:543 inc/functions.php:588 inc/functions.php:633
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/functions.php:558 inc/functions.php:603 inc/functions.php:648
+msgid "Text"
+msgstr "Texto"
+
+#: inc/functions.php:573
+msgid "Box 2"
+msgstr "Caixa 2"
+
+#: inc/functions.php:618
+msgid "Box 3"
+msgstr "Caixa 3"
+
+#: inc/functions.php:663
+msgid "Social Icons"
+msgstr "Ícones sociais"
+
+#: inc/functions.php:683
+msgid "Show "
+msgstr "Exibir"
+
+#: inc/functions.php:698
+msgid " url"
+msgstr " url"
+
+#: inc/functions.php:718
+msgid " icon"
+msgstr "ícone"
+
+#: inc/functions.php:748 inc/functions.php:1481
+msgid "Background Type"
+msgstr "Tipo de fundo"
+
+#: inc/functions.php:754 inc/functions.php:1000 inc/functions.php:1782
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/functions.php:761
+msgid "Gradient"
+msgstr "Gradient"
+
+#: inc/functions.php:768
+msgid "Slideshow"
+msgstr "Apresentação de Slides"
+
+#: inc/functions.php:776
+msgid "Video"
+msgstr "Vídeo"
+
+#: inc/functions.php:799
+msgid "Header Image"
+msgstr "Imagem do cabeçalho"
+
+#: inc/functions.php:825
+msgid "Self hosted video (MP4)"
+msgstr "Vídeo auto hospedado (MP4)"
+
+#: inc/functions.php:837
+msgid "External Video"
+msgstr "Vídeo externo"
+
+#: inc/functions.php:849
+msgid "Video Poster"
+msgstr "Poster do vídeo"
+
+#: inc/functions.php:876
+msgid "Navigation Options"
+msgstr "Opções de navegação"
+
+#: inc/functions.php:884
+msgid "Show Navigation Bottom Border"
+msgstr "Mostrar borda inferior da navegação"
+
+#: inc/functions.php:894
+msgid "Boxed Navigation"
+msgstr "Navegação em caixa"
+
+#: inc/functions.php:904
+msgid "Stick to top"
+msgstr "Fixar ao topo"
+
+#: inc/functions.php:914
+msgid "Transparent Navigation"
+msgstr "Navegação transparente"
+
+#: inc/functions.php:939
+msgid "Header Background Options"
+msgstr "Opções de fundo do cabeçalho"
+
+#: inc/functions.php:948
+msgid "Full Height Background"
+msgstr "Altura total do fundo"
+
+#: inc/functions.php:960
+msgid "Header Gradient"
+msgstr "Gradiente do cabeçalho"
+
+#: inc/functions.php:985
+msgid "Header Slideshow Images"
+msgstr "Imagens de slide no cabeçalho"
+
+#: inc/functions.php:990
+msgid "slideshow image"
+msgstr "imagem do slideshow"
+
+#: inc/functions.php:1009
+msgid "Slide Duration"
+msgstr "Duração do slide"
+
+#: inc/functions.php:1026
+msgid "Effect Speed"
+msgstr "Velocidade do efeito"
+
+#: inc/functions.php:1043
+msgid "Header Overlay Options"
+msgstr "Opções de sobreposição de cabeçalho"
+
+#: inc/functions.php:1052
+msgid "Show overlay"
+msgstr "Mostrar sobreposição"
+
+#: inc/functions.php:1062
+msgid "Overlay Color"
+msgstr "Cor da sobreposição"
+
+#: inc/functions.php:1098
+msgid "Overlay Opacity"
+msgstr "Opacidade da sobreposição"
+
+#: inc/functions.php:1136
+msgid "Header Separator"
+msgstr "Separador do cabeçalho"
+
+#: inc/functions.php:1143
+msgid "Show header separator"
+msgstr "Exibir separador de cabeçalho"
+
+#: inc/functions.php:1169
+msgid "Separator Height"
+msgstr "Altura do separador"
+
+#: inc/functions.php:1244
+msgid "Show subtitle (blog description)"
+msgstr "Mostrar subtítulo (descrição do blog)"
+
+#: inc/functions.php:1264 inc/functions.php:1643
+msgid "Content Spacing"
+msgstr "Espaçamento do conteúdo"
+
+#: inc/functions.php:1312
+msgctxt "Shapes"
+msgid "Tilt"
+msgstr "Inclinação"
+
+#: inc/functions.php:1317
+msgctxt "Shapes"
+msgid "Tilt Flipped"
+msgstr "Inclinação deslocada"
+
+#: inc/functions.php:1322
+msgctxt "Shapes"
+msgid "Tilt Opacity"
+msgstr "Opacidade da inclinação"
+
+#: inc/functions.php:1326
+msgctxt "Shapes"
+msgid "Triangle"
+msgstr "Triângulo"
+
+#: inc/functions.php:1330
+msgctxt "Shapes"
+msgid "Triangle Asymmetrical"
+msgstr "Triângulo Assimétrico "
+
+#: inc/functions.php:1336
+msgctxt "Shapes"
+msgid "Fan Opacity"
+msgstr "Opacidade do leque"
+
+#: inc/functions.php:1339
+msgctxt "Shapes"
+msgid "Mountains"
+msgstr "Montanhas"
+
+#: inc/functions.php:1344
+msgctxt "Shapes"
+msgid "Pyramids"
+msgstr "Pirâmides"
+
+#: inc/functions.php:1350
+msgctxt "Shapes"
+msgid "Waves"
+msgstr "Ondas"
+
+#: inc/functions.php:1355
+msgctxt "Shapes"
+msgid "Waves Brush"
+msgstr "Pincel de ondas"
+
+#: inc/functions.php:1359
+msgctxt "Shapes"
+msgid "Waves Pattern"
+msgstr "Padrão de ondas"
+
+#: inc/functions.php:1364
+msgctxt "Shapes"
+msgid "Clouds"
+msgstr "Nuvens"
+
+#: inc/functions.php:1371
+msgctxt "Shapes"
+msgid "Curve"
+msgstr "Curvas"
+
+#: inc/functions.php:1375
+msgctxt "Shapes"
+msgid "Curve Asymmetrical"
+msgstr "Curva assimétrica"
+
+#: inc/functions.php:1381
+msgctxt "Shapes"
+msgid "Drops"
+msgstr "Gotas"
+
+#: inc/functions.php:1388
+msgctxt "Shapes"
+msgid "Arrow"
+msgstr "Seta"
+
+#: inc/functions.php:1393
+msgctxt "Shapes"
+msgid "Book"
+msgstr "Livro"
+
+#: inc/functions.php:1398
+msgctxt "Shapes"
+msgid "Split"
+msgstr "Divisão"
+
+#: inc/functions.php:1403
+msgctxt "Shapes"
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: inc/functions.php:1509
+msgid "Logo Max Height"
+msgstr "Altura máxima do logo"
+
+#: inc/functions.php:1533
+msgid "Dark Logo"
+msgstr "Logo escuro"
+
+#: inc/functions.php:1541 inc/functions.php:1546
+msgid "Select logo"
+msgstr "Selecionar logo"
+
+#: inc/functions.php:1542
+msgid "Change logo"
+msgstr "Alterar logo"
+
+#: inc/functions.php:1544 inc/functions.php:2972
+msgid "Default"
+msgstr "Predefinição"
+
+#: inc/functions.php:1545
+msgid "No logo selected"
+msgstr "Nenhum logo selecionado"
+
+#: inc/functions.php:1547
+msgid "Choose logo"
+msgstr "Escolher logo"
+
+#: inc/functions.php:1555
+msgid "Main Content"
+msgstr "Conteúdo Principal"
+
+#: inc/functions.php:1563
+msgid "Allow blog content to overlap header"
+msgstr "Permitir que o conteúdo do blog se sobreponha ao cabeçalho"
+
+#: inc/functions.php:1571
+msgid "Overlap with"
+msgstr "Sobreposição com"
+
+#: inc/functions.php:1586
+msgid "Content template"
+msgstr "Modelo de conteúdo"
+
+#: inc/functions.php:1674
+msgid "Image width"
+msgstr "Largura da imagem"
+
+#: inc/functions.php:1734
+msgid "Text Width"
+msgstr "Largura do texto"
+
+#: inc/functions.php:1814
+msgid "Show title"
+msgstr "Mostrar título"
+
+#: inc/functions.php:1861
+msgid "Show subtitle"
+msgstr "Mostrar subtítulo"
+
+#: inc/functions.php:1900
+msgid "Primary Button"
+msgstr "Botão primário"
+
+#: inc/functions.php:1908
+msgid "Show primary button"
+msgstr "Mostrar botão primário"
+
+#: inc/functions.php:1916 inc/functions.php:1985
+msgid "Label"
+msgstr "Rótulo"
+
+#: inc/functions.php:1945 inc/functions.php:2014
+msgid "URL"
+msgstr "URL"
+
+#: inc/functions.php:1969
+msgid "Secondary Button"
+msgstr "Botão secundário"
+
+#: inc/functions.php:1977
+msgid "Show secondary button"
+msgstr "Mostrar botão secundário"
+
+#: inc/functions.php:2468
+msgid "Pause"
+msgstr "Pausa"
+
+#: inc/functions.php:2469
+msgid "Play"
+msgstr "Reproduzir"
+
+#: inc/functions.php:2470
+msgid "Video is paused."
+msgstr "O vídeo está em pausa."
+
+#: inc/functions.php:2471
+msgid "Video is playing."
+msgstr "O vídeo está passando."
+
+#: inc/functions.php:2747 index.php:23
+msgid "Older posts"
+msgstr "Posts antigos"
+
+#: inc/functions.php:2748 index.php:24
+msgid "Newer posts"
+msgstr "Posts recentes"
+
+#: inc/functions.php:2749
+msgid "Posts navigation"
+msgstr "Navegação dos posts"
+
+#: inc/theme-info.php:4
+msgid "Thanks for choosing One Page Express!"
+msgstr "Obrigado por escolher One Page Express!"
+
+#: inc/theme-info.php:5
+msgid "We're glad you chose our theme and we hope it will help you create a beautiful site in no time!<br> If you have any suggestions, don't hesitate to leave us some feedback."
+msgstr "Estamos satisfeitos por ter escolhido o nosso tema e esperamos que o ajude a criar um site bonito em pouco tempo! <br> Se você tiver alguma sugestão, não hesite em nos deixar um feedback."
+
+#: inc/theme-info.php:7
+msgid "Get Started in 3 Easy Steps"
+msgstr "Comece em 3 fáceis etapas"
+
+#: inc/theme-info.php:8
+msgid "1. Install the recommended plugins"
+msgstr "1. Instale os plugins recomendados"
+
+#: inc/theme-info.php:40
+msgid "Plugin is installed and active."
+msgstr "Plugin está instalado e ativo."
+
+#: inc/theme-info.php:56
+msgid "Customize"
+msgstr "Personalizar"
+
+#: inc/theme-info.php:57
+msgid "3. Enjoy! :)"
+msgstr "3. Aproveite! :)"
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "O seguinte plugin foi ativado:"
+msgstr[1] ""
+
+#: comments.php:11
+msgid "No Responses"
+msgstr "Sem comentários"
+
+#: comments.php:11
+msgid "One Response"
+msgstr "Um comentário"
+
+#: comments.php:11
+msgid "% Responses"
+msgstr "% comentários"
+
+#: comments.php:28
+msgid "&lt; Older Comments"
+msgstr "&lt; Comentários antigos"
+
+#: comments.php:31
+msgid "Newer Comments &gt;"
+msgstr "Cometários recentes &gt;"
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: inc/functions.php:23
+msgid "Homepage Header Image"
+msgstr "Imagem de cabeçalho da página inicial"
+
+#: inc/functions.php:48
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: inc/functions.php:205
+msgid "You can set this title from the customizer."
+msgstr "Você pode definir este título a partir do personalizador."
+
+#: inc/functions.php:225
+msgid "You can set this subtitle from the customizer."
+msgstr "Você pode definir este subtítulo a partir do personalizador."
+
+#: inc/functions.php:267
+msgid "Action button 1"
+msgstr "Botão de ação 1"
+
+#: inc/functions.php:290
+msgid "Action button 2"
+msgstr "Botão de ação 2"
+
+#: inc/functions.php:1806 inc/functions.php:1822
+msgid "Title"
+msgstr "Título"
+
+#: inc/functions.php:1853 inc/functions.php:1869
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: inc/functions.php:2069
+msgid "Sidebar widget area"
+msgstr "Área de widget da barra lateral"
+
+#: inc/functions.php:2122
+msgid "Read more"
+msgstr "Leia mais"
+
+#: inc/functions.php:2341
+msgid "Y"
+msgstr "Y"
+
+#: inc/functions.php:2368
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: inc/functions.php:2370
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Resultados da procura para &#8220;%s&#8221;"
+
+#: index.php:25 template-parts/content-page.php:10
+#: template-parts/content-single.php:18
+msgid "Page"
+msgstr "Página"
+
+#: template-parts/content-none.php:4
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: template-parts/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: template-parts/content-none.php:9
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: template-parts/content-none.php:12
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aparentemente não conseguimos encontrar o que você está procurando. Talvez uma busca ajude."
+
+#: template-parts/content-page.php:6 template-parts/content-single.php:14
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-single.php:30
+msgid "Next:"
+msgstr "Seguinte:"
+
+#: template-parts/content-single.php:31
+msgid "Next post:"
+msgstr "Post seguinte:"
+
+#: template-parts/content-single.php:33
+msgid "Previous:"
+msgstr "Anterior:"
+
+#: template-parts/content-single.php:34
+msgid "Previous post:"
+msgstr "Post anterior:"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Modelo de página inicial"

@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'magnine-econs';
+  src:  url('../fonts/magnine-econs.eot?qrxuz2');
+  src:  url('../fonts/magnine-econs.eot?qrxuz2#iefix') format('embedded-opentype'),
+    url('../fonts/magnine-econs.ttf?qrxuz2') format('truetype'),
+    url('../fonts/magnine-econs.woff?qrxuz2') format('woff'),
+    url('../fonts/magnine-econs.svg?qrxuz2#magnine-econs') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="magnine-econs-"], [class*=" magnine-econs-"] {
+  font-family: 'magnine-econs' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.magnine-econs-block-1:before {
+  content: "\e900";
+}
+.magnine-econs-block-2:before {
+  content: "\e901";
+}
+.magnine-econs-block-3:before {
+  content: "\e902";
+}
+.magnine-econs-block-4:before {
+  content: "\e903";
+}
+.magnine-econs-block-5:before {
+  content: "\e904";
+}
+.magnine-econs-block-6:before {
+  content: "\e905";
+}
+.magnine-econs-block-7:before {
+  content: "\e906";
+}
+.magnine-econs-block-8:before {
+  content: "\e907";
+}
+.magnine-econs-block-9:before {
+  content: "\e908";
+}
+.magnine-econs-grid-1:before {
+  content: "\e90a";
+}
+.magnine-econs-grid-2:before {
+  content: "\e90b";
+}
+.magnine-econs-grid-3:before {
+  content: "\e90c";
+}
+.magnine-econs-grid-4:before {
+  content: "\e90d";
+}
+.magnine-econs-grid-5:before {
+  content: "\e90e";
+}
+.magnine-econs-grid-6:before {
+  content: "\e90f";
+}
+.magnine-econs-grid-7:before {
+  content: "\e909";
+}
+.magnine-econs-grid-8:before {
+  content: "\e910";
+}
+.magnine-econs-grid-9:before {
+  content: "\e911";
+}
+#elementor-panel-get-pro-elements,
+#elementor-panel-get-pro-elements-sticky{
+  display: none;
+  height: 1px;
+  visibility: hidden;
+  opacity: 0;
+}

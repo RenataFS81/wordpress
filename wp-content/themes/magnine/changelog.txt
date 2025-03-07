@@ -1,0 +1,8 @@
+== Changelog ==
+
+= 1.0.1 - 2025-01-28 =
+* Enhancement - Design
+* Fix    - Elementor CSS RTL.
+
+= 1.0.0 - 2025-01-24 =
+* Release - Initial Version
